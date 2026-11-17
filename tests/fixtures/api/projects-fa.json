@@ -1,0 +1,1339 @@
+{
+ "data": [
+  {
+   "id": "meridian-pavilion",
+   "slug": "meridian-pavilion",
+   "index": 0,
+   "category": {
+    "key": "architecture",
+    "name": "معماری"
+   },
+   "typology": {
+    "key": "culture",
+    "name": "فرهنگی"
+   },
+   "status": "construction",
+   "year": 2025,
+   "area": 4800,
+   "title": "پاویون نصف‌النهار",
+   "location": "اصفهان، ایران",
+   "client": "سازمان فرهنگی شهرداری اصفهان",
+   "shortDescription": "شش تالار قوسی که زاینده‌رود را در سپیده‌دم قاب می‌گیرند.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/553041e6-1ec5-4ca3-bdc1-9a8bf7bd3b43.jpg",
+    "width": 2400,
+    "height": 1250,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABQAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A0FukK5ECgen+RURvIsn/AEVf++v/AK1FFUhXP//Z",
+    "tone": "#a4a2a5",
+    "alt": "شش تالار قوسی پاویون نصف‌النهار که در سپیده‌دم در آبگینه‌ای آرام بازتاب یافته‌اند"
+   },
+   "description": [
+    "پاویون نصف‌النهار شش تالار قوسی را در امتداد نصف‌النهار قدیمی اصفهان به‌ردیف می‌کند تا هر تالار با زاویه‌ای اندکی متفاوت از نور صبح، رو به رود باز شود.",
+    "تالارها از بتن رنگ‌دانه‌دار با آهک ساخته شده‌اند و حوضچه‌ای کم‌عمق مشترک دارند که آرکید را در آب دوچندان می‌کند و هوا را پیش از ورود به ساختمان خنک می‌سازد."
+   ],
+   "facts": [
+    {
+     "label": "سازه",
+     "value": "طاق‌های بتنی با دهانه ۱۴ متر"
+    },
+    {
+     "label": "گواهی",
+     "value": "LEED Gold (هدف)"
+    },
+    {
+     "label": "همکار",
+     "value": "Atelier Nord، اسلو"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "heading": "برای هر ساعت یک تالار",
+     "body": [
+      "هر طاق چند درجه با همسایه‌اش اختلاف جهت دارد. با بالا آمدن خورشید، درخشش از نخستین تالار به آخرین تالار می‌رود و پاویون را به ساعتی آهسته بدل می‌کند.",
+      "برنامه فضایی: تالار ۶۰۰ نفره، سه فضای نمایشگاهی، باغ مطالعه و یک کافه در لبه رود."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/1446392c-8f03-4cf7-812a-eac1bc96b0d8.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A1FurXHyj5f8AcHrUX2iw/iznv8tFFUlbqJu/Q//Z",
+      "tone": "#aaa29e",
+      "alt": "آرکید از لبه حوضچه"
+     },
+     "caption": "آرکید از لبه حوضچه، نزدیک ظهر."
+    },
+    {
+     "type": "quote",
+     "text": "«می‌خواستیم ساختمان آرام برسد؛ همان‌طور که نور به حیاط می‌رسد.»",
+     "attribution": "ندا کریمی، مدیر طراحی"
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/7400471b-c888-428b-8101-e5d4c8ea5d0c.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A1muoPs5gCDdsxn8KKwI3bY/zH7p70Vzo3Z//2Q==",
+      "tone": "#b1947e",
+      "alt": "فضای داخلی تالار اصلی با سه دهانه قوسی"
+     },
+     "caption": "تالار اصلی: سه دهانه قوسی، رود را قاب می‌گیرند."
+    },
+    {
+     "type": "context",
+     "heading": "زمین",
+     "body": "زمین ۳۰۰ متر شمال‌غربی سی‌وسه‌پل، جایی که رود پهن‌تر می‌شود، قرار دارد. عابران پل قدیمی از تالار سوم وارد می‌شوند.",
+     "coordinates": "32.6366° N, 51.6676° E"
+    },
+    {
+     "type": "imagePair",
+     "images": [
+      {
+       "src": "https://cms.ravino.test/storage/media/2026/10/9899c877-bd10-437a-8ee7-22df2bf69115.jpg",
+       "width": 1400,
+       "height": 1400,
+       "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8Ae8iDAHTFViY80mTt/CqpJyea57HTc//Z",
+       "tone": "#977865",
+       "alt": "پره‌های سفالی نمای جنوبی"
+      },
+      {
+       "src": "https://cms.ravino.test/storage/media/2026/10/bd2c247c-4df6-4fb4-ad06-b22988b600c3.jpg",
+       "width": 1800,
+       "height": 1200,
+       "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7hChQFen0qEvBk/L+lFFSM//2Q==",
+       "tone": "#dddad3",
+       "alt": "نقشه همکف"
+      }
+     ],
+     "captions": [
+      "نمای جنوبی: پره‌های سفالی با فاصله ۴۰ میلی‌متر.",
+      "نقشه همکف، ۱:۲۵۰."
+     ]
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/f78a5a9f-aa18-4b35-96be-5d1c66e7e98d.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7ePlAen0qBpPmPyJ19KKKkZ//9k=",
+      "tone": "#dbd8d2",
+      "alt": "برش طولی"
+     },
+     "caption": "برش طولی: بام‌ها به‌سوی رود پایین می‌آیند."
+    },
+    {
+     "type": "facts",
+     "heading": "در یک نگاه",
+     "items": [
+      {
+       "label": "تالارها",
+       "value": "۶"
+      },
+      {
+       "label": "دهانه",
+       "value": "۱۴ متر"
+      },
+      {
+       "label": "حوضچه",
+       "value": "۱٬۲۰۰ متر مربع"
+      },
+      {
+       "label": "انرژی",
+       "value": "۳۸٪ کمتر از مبنا"
+      }
+     ]
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "مدیر طراحی",
+       "names": [
+        "ندا کریمی"
+       ]
+      },
+      {
+       "role": "تیم پروژه",
+       "names": [
+        "آرمان رحیمی",
+        "سارا مرادی",
+        "کیان حیدری"
+       ]
+      },
+      {
+       "role": "همکاران",
+       "names": [
+        "Atelier Nord",
+        "Lund & Partners"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "naqsh-atelier-interior",
+      "caspian-reading-house",
+      "kavir-observatory"
+     ]
+    }
+   ],
+   "related": [
+    "naqsh-atelier-interior",
+    "caspian-reading-house",
+    "kavir-observatory"
+   ]
+  },
+  {
+   "id": "tehran-terraces",
+   "slug": "tehran-terraces",
+   "index": 1,
+   "category": {
+    "key": "architecture",
+    "name": "معماری"
+   },
+   "typology": {
+    "key": "residential",
+    "name": "مسکونی"
+   },
+   "status": "completed",
+   "year": 2024,
+   "area": 12400,
+   "title": "تراس‌های تهران",
+   "location": "تهران، ایران",
+   "client": "شرکت توسعه البرز",
+   "shortDescription": "شصت خانه که به‌شکل تراس‌های سبز رو به البرز روی هم نشسته‌اند.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/bc54f7d3-d124-4f6d-8696-ff77b2e62044.jpg",
+    "width": 2000,
+    "height": 2000,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A3k2bRtX5arNNbbj+7k6/3axEnm2f61/++jURuJ8/66T/AL6NHMxWP//Z",
+    "tone": "#a3a8a8",
+    "alt": "تراس‌های تهران، شش طبقه پلکانی با درختکاری در دامنه البرز"
+   },
+   "description": [
+    "تراس‌های تهران یک زمین پرشیب رو به شمال را به شصت آپارتمان بدل می‌کند؛ هر کدام با تراس باغی خصوصی هم‌اندازه اتاق نشیمن.",
+    "مقطع پلکانی هر خانه را به بام خانه زیرین مشرف می‌کند و لبه خیابان را در مقیاس خانه‌های همسایه نگه می‌دارد."
+   ],
+   "facts": [
+    {
+     "label": "سازه",
+     "value": "قاب بتنی، دال پس‌کشیده"
+    },
+    {
+     "label": "واحدها",
+     "value": "۶۰"
+    },
+    {
+     "label": "کاشت",
+     "value": "۲٬۳۰۰ درخت و درختچه"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "body": [
+      "هر تراس یک باغ است: گلدان‌ها در لبه دال ریخته شده‌اند و از سامانه آب خاکستری ساختمان آبیاری می‌شوند.",
+      "از خیابان، ساختمان مانند تپه‌ای دیده می‌شود؛ از تراس‌ها مانند یک روستا."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "wide",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/fdebb984-1d96-4a13-8aa4-553d5d462e10.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A0EupQuPlP1WmfaZCf4f++RRRSuxH/9k=",
+      "tone": "#a1a6a7",
+      "alt": "تراس‌های باغی در نمایی عریض"
+     },
+     "caption": "تراس‌های سبز نور بعدازظهر را می‌گیرند."
+    },
+    {
+     "type": "quote",
+     "text": "«تراس همان اتاقی است که در آپارتمان‌های معمولی نداشتیم.»",
+     "attribution": "ساکن طبقه سوم"
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/1dd71cd4-963a-43f8-aee6-6bdc175435b8.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AbK6bSO3/AOuiqzk+UaKQj//Z",
+      "tone": "#777d76",
+      "alt": "جزئیات پرده چوبی"
+     },
+     "caption": "پرده‌هایی از چوب زبان‌گنجشک عمل‌آوری حرارتی، با تیغه‌های ۱۲ میلی‌متری."
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/971ad06d-dd27-479b-8d16-a9ada7436ecb.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A1o9WjVRHGikAADK/nVGW4t2lcg8FielFFSB//9k=",
+      "tone": "#a6a8a2",
+      "alt": "اتاق نشیمن باز به تراس"
+     },
+     "caption": "نشیمن، رو به باغ خصوصی خود باز می‌شود."
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/343a1b32-ec6c-4d1a-b57a-0377a1a7104c.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7ddpUFcAVEXgycqPyooqRn//2Q==",
+      "tone": "#dbd8d2",
+      "alt": "برش از میان تراس‌های پلکانی"
+     },
+     "caption": "برش A-A: هر طبقه ۳٫۶ متر عقب‌نشینی دارد."
+    },
+    {
+     "type": "context",
+     "heading": "محله",
+     "body": "زمین در دامنه‌های دارآباد و ۱٬۶۵۰ متر بالاتر از سطح دریا قرار دارد. دید به سمت شمال و قله توچال است.",
+     "coordinates": "35.7790° N, 51.5210° E"
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "مدیر طراحی",
+       "names": [
+        "آرمان رحیمی"
+       ]
+      },
+      {
+       "role": "تیم پروژه",
+       "names": [
+        "ندا کریمی",
+        "مینا صادقی",
+        "امید توکلی"
+       ]
+      },
+      {
+       "role": "منظر",
+       "names": [
+        "آتلیه سبز",
+        "Studio Hanne Berg"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "green-spine-masterplan",
+      "zagros-lodge",
+      "meridian-pavilion"
+     ]
+    }
+   ],
+   "related": [
+    "green-spine-masterplan",
+    "zagros-lodge",
+    "meridian-pavilion"
+   ]
+  },
+  {
+   "id": "caspian-reading-house",
+   "slug": "caspian-reading-house",
+   "index": 2,
+   "category": {
+    "key": "architecture",
+    "name": "معماری"
+   },
+   "typology": {
+    "key": "culture",
+    "name": "فرهنگی"
+   },
+   "status": "design",
+   "year": 2025,
+   "area": 3200,
+   "title": "خانه مطالعه خزر",
+   "location": "رشت، ایران",
+   "client": "بنیاد کتابخانه‌های گیلان",
+   "shortDescription": "کتابخانه‌ای عمومی گرد حیاطی آبی که از باران تغذیه می‌شود.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/1ec272ef-803e-4e27-a4fc-7cd319e41d6d.jpg",
+    "width": 2400,
+    "height": 1250,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABQAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ALVy1iGGFVRgqBwf8+9Y7yBnYhAMnOB2oorEyZ//Z",
+    "tone": "#72846c",
+    "alt": "نمای هوایی خانه مطالعه خزر که دور حیاطی آبی حلقه زده است"
+   },
+   "description": [
+    "خانه مطالعه حلقه‌ای از دوازده پاویون کوچک گرد یک حیاط آبی است که از باران تغذیه می‌شود. هر پاویون یک اتاق مطالعه با پنجره‌ای بزرگ به حیاط دارد.",
+    "اقلیم مرطوب رشت به مصالح اصلی ساختمان بدل می‌شود: آب باران جمع می‌شود، آرام می‌گیرد و به نمایش در می‌آید."
+   ],
+   "facts": [
+    {
+     "label": "مجموعه",
+     "value": "۹۰٬۰۰۰ جلد"
+    },
+    {
+     "label": "بام",
+     "value": "بام سبز با ناودان مسی"
+    },
+    {
+     "label": "سازه",
+     "value": "CLT و چوب چندلایه"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "body": [
+      "دوازده پاویون، دوازده فضا. هر اتاق مطالعه ارتفاع سقف، چوب و منظره آب مخصوص خود را دارد.",
+      "حلقه از جنوب باز است؛ جایی که باغ به خیابان شهر می‌رسد."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/ae4da829-e4de-4398-9633-ab3b902f873a.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8Ait3iNmxUBVUDfkZGe2eOefY1ms0e44BxmiisTJn/2Q==",
+      "tone": "#6a7e64",
+      "alt": "حیاط آبی از بالا"
+     },
+     "caption": "حیاط آبی، از باغ بام."
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/a36c88ff-3a19-4df0-9d22-a2b080fa3e2f.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A6A3lt9nNuCm/ZjrzRXExO+XO5s4POaKzTDmuf//Z",
+      "tone": "#a8a693",
+      "alt": "اتاق مطالعه با پنجره‌های قوسی"
+     },
+     "caption": "اتاق مطالعه ۰۷: پنجره‌های قوسی و نجاری بلوط."
+    },
+    {
+     "type": "quote",
+     "text": "«کتابخانه باید مثل پناه گرفتن در باران باشد، نه مثل یک انبار.»",
+     "attribution": "مینا صادقی، معمار پروژه"
+    },
+    {
+     "type": "image",
+     "shape": "wide",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/4fb7f643-98a5-4a60-b71f-ef6b67c5f607.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AGnBXheKqmZNx+XvRRXPY2uf/2Q==",
+      "tone": "#8f7c66",
+      "alt": "نمای پره‌های چوبی"
+     },
+     "caption": "پرده چوبی نور کم‌ارتفاع خزر را صاف می‌کند."
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/e462490b-b4f7-4ae2-a81d-d0bc545599e0.jpg",
+      "width": 1400,
+      "height": 1400,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7lVAUADiojFFk8CiEnyRyelU2Y7jyetSM//Z",
+      "tone": "#dddad3",
+      "alt": "نقشه طبقه اول"
+     },
+     "caption": "نقشه طبقه اول، ۱:۲۰۰ — دوازده پاویون دور حیاط."
+    },
+    {
+     "type": "facts",
+     "heading": "در یک نگاه",
+     "items": [
+      {
+       "label": "پاویون‌ها",
+       "value": "۱۲"
+      },
+      {
+       "label": "صندلی‌ها",
+       "value": "۴۲۰"
+      },
+      {
+       "label": "جمع‌آوری باران",
+       "value": "۱٬۸۰۰ متر مکعب در سال"
+      },
+      {
+       "label": "استاندارد",
+       "value": "ISO 14001"
+      }
+     ]
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "مدیر طراحی",
+       "names": [
+        "مینا صادقی"
+       ]
+      },
+      {
+       "role": "تیم پروژه",
+       "names": [
+        "امید توکلی",
+        "پریسا جلالی"
+       ]
+      },
+      {
+       "role": "همکاران",
+       "names": [
+        "Atelier Nord",
+        "Studio Hanne Berg"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "meridian-pavilion",
+      "naqsh-atelier-interior",
+      "green-spine-masterplan"
+     ]
+    }
+   ],
+   "related": [
+    "meridian-pavilion",
+    "naqsh-atelier-interior",
+    "green-spine-masterplan"
+   ]
+  },
+  {
+   "id": "zagros-lodge",
+   "slug": "zagros-lodge",
+   "index": 3,
+   "category": {
+    "key": "architecture",
+    "name": "معماری"
+   },
+   "typology": {
+    "key": "hospitality",
+    "name": "اقامتی"
+   },
+   "status": "completed",
+   "year": 2023,
+   "area": 2150,
+   "title": "اقامتگاه زاگرس",
+   "location": "چلگرد، ایران",
+   "client": "گروه گردشگری زاگرس",
+   "shortDescription": "حجم‌های سنگی که مانند تخته‌سنگ‌هایی در دره‌ای کوهستانی نشسته‌اند.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/9fda796f-c835-4418-9560-feac132a5430.jpg",
+    "width": 1800,
+    "height": 2200,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A3DdWpRQq4HcH0x/9cUVyzO/kD5m6etFYG1j/2Q==",
+    "tone": "#b09e8b",
+    "alt": "اقامتگاه زاگرس: حجم‌های سنگی در نور کم‌ارتفاع کوهستان"
+   },
+   "description": [
+    "اقامتگاه زاگرس خوشه‌ای از هشت حجم سنگی است که شیب دره را دنبال می‌کند. اتاق‌ها کوچک، عمیق و گرم‌اند؛ فضاهای مشترک بزرگ و گشوده به کوهستان.",
+    "تمام سنگ از معدنی در چهار کیلومتری تأمین شده و اقامتگاه با توربین ریزآبی روی نهر پایین دره برق می‌گیرد."
+   ],
+   "facts": [
+    {
+     "label": "اتاق‌ها",
+     "value": "۲۴ سوئیت"
+    },
+    {
+     "label": "مصالح",
+     "value": "سنگ محلی، کاج لاریکس، گچ آهکی"
+    },
+    {
+     "label": "انرژی",
+     "value": "ریزآبی، ۴۰ کیلووات"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "body": [
+      "اقامتگاه روی یک خط شکسته چیده شده تا هر اتاق دره را ببیند و هیچ اتاقی اتاق دیگر را نبیند.",
+      "دیوارها ۶۰ سانتی‌متر ضخامت دارند و در زمستان بلند کوهستان، اتاق‌ها را از نظر حرارتی آرام نگه می‌دارند."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "wide",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/a31d25ef-69e9-4055-a30e-4ba79a98fd8d.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AlGp3IAIK89tvFMOrXOTxF/3wKKK5zc//2Q==",
+      "tone": "#ac9986",
+      "alt": "اقامتگاه در دره"
+     },
+     "caption": "دره در ساعت طلایی."
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/6bc55b2c-9ad6-4b05-9a31-dfaa7e0da98e.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ApzMuSO1FV5D8tFc9jsbP/9k=",
+      "tone": "#8a5f4f",
+      "alt": "جزئیات دیوار سنگی"
+     },
+     "caption": "سنگ خشکه‌چین، ضخامت دیوار ۶۰ سانتی‌متر."
+    },
+    {
+     "type": "quote",
+     "text": "«داخل کوه می‌خوابید و داخل منظره بیدار می‌شوید.»",
+     "attribution": "دفتر یادبود مهمانان، زمستان ۱۴۰۲"
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/8dc72656-3331-4d12-92f5-2a7161a62a6e.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A2U1RAgSMDAGBke3+NU5bi3aV2B4LE9KKKzSszR7H/9k=",
+      "tone": "#bba999",
+      "alt": "داخل یک سوئیت با دهانه‌های قوسی"
+     },
+     "caption": "سوئیت ۱۲: سه دهانه قوسی خط‌الرأس را قاب می‌گیرند."
+    },
+    {
+     "type": "context",
+     "heading": "دره",
+     "body": "چلگرد در ارتفاع ۲٬۳۰۰ متری است. برف زمستانی پنج ماه می‌ماند و اقامتگاه تمام سال باز است، با مسیر اسکی از خط‌الرأس شمالی.",
+     "coordinates": "32.4530° N, 50.1050° E"
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/f91084be-5f1a-4807-b604-9560f6123c33.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7hChQFen0qEvBk/L+lFFSM//2Q==",
+      "tone": "#dddad4",
+      "alt": "پلان استقرار"
+     },
+     "caption": "پلان استقرار، ۱:۱۰۰۰ — هشت حجم روی خطوط تراز."
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "مدیر طراحی",
+       "names": [
+        "کیان حیدری"
+       ]
+      },
+      {
+       "role": "تیم پروژه",
+       "names": [
+        "سارا مرادی",
+        "پریسا جلالی"
+       ]
+      },
+      {
+       "role": "سازه",
+       "names": [
+        "Lund & Partners"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "tehran-terraces",
+      "kavir-observatory",
+      "hormuz-shore-walk"
+     ]
+    }
+   ],
+   "related": [
+    "tehran-terraces",
+    "kavir-observatory",
+    "hormuz-shore-walk"
+   ]
+  },
+  {
+   "id": "hormuz-shore-walk",
+   "slug": "hormuz-shore-walk",
+   "index": 4,
+   "category": {
+    "key": "landscape",
+    "name": "منظر"
+   },
+   "typology": {
+    "key": "public-space",
+    "name": "فضای عمومی"
+   },
+   "status": "construction",
+   "year": 2025,
+   "area": 38000,
+   "title": "پیاده‌راه ساحلی هرمز",
+   "location": "بندرعباس، ایران",
+   "client": "سازمان بنادر و دریانوردی هرمزگان",
+   "shortDescription": "گذرگاهی چوبی به طول یک کیلومتر، بلند بر فراز جزر و مد.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/30736fec-c9ad-4368-9028-3bc1d9e9ba46.jpg",
+    "width": 2400,
+    "height": 1250,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABQAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AWPViAGFrB+RqNtcO4/6DbdfQ0UV0GB//2Q==",
+    "tone": "#8197ac",
+    "alt": "پیاده‌راه ساحلی هرمز، گذرگاهی چوبی و بلند بر فراز آب"
+   },
+   "description": [
+    "پیاده‌راه ساحلی یک گذرگاه یک‌کیلومتری را روی ستون‌های باریک بالاتر از پهنه‌های جزر و مدی بلند می‌کند و به شهر خط افقی تازه‌ای برای قدم‌زدن می‌دهد.",
+    "زیر گذرگاه، خزانه حرا بازسازی می‌شود؛ بالای آن، سایبان‌ها، نیمکت‌ها و بازار ماهی رو به تنگه قرار دارند."
+   ],
+   "facts": [
+    {
+     "label": "طول",
+     "value": "۱٬۰۵۰ متر"
+    },
+    {
+     "label": "مصالح",
+     "value": "عرشه چوبی عمل‌آوری‌شده، اتصالات ضدزنگ"
+    },
+    {
+     "label": "مهندسی ساحلی",
+     "value": "Lund & Partners، کپنهاگ"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "body": [
+      "گذرگاه خط ساحلی قدیمی را دنبال می‌کند که شهر فراموشش کرده بود. جایی که جزر و مد می‌رسید اکنون نیمکت است و جایی که صیادان پهلو می‌گرفتند، بازار.",
+      "پروژه در ۲۴ قطعه پیش‌ساخته اجرا می‌شود که هر کدام در یک جزر و مد نصب می‌گردد."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "wide",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/ce949aa2-e640-45b6-a1f5-0fddba66bbd4.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AItTlUBhFAD/uVG2sT7j+5t+v/PP/AOvRRW5gf//Z",
+      "tone": "#859bb0",
+      "alt": "گذرگاه در میانه جزر و مد"
+     },
+     "caption": "گذرگاه در میانه جزر و مد."
+    },
+    {
+     "type": "quote",
+     "text": "«برای نخستین بار شهر با رو، و نه با پشت، به دریا نگاه می‌کند.»",
+     "attribution": "کارشناس شهرسازی، بندرعباس"
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/f6c8fecc-b945-4a87-9db4-834d715474ca.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AyY7vSwAfsAP/AAI0032kZP8AoH/j3/1qKKfIh87P/9k=",
+      "tone": "#6b5d5a",
+      "alt": "گذرگاه هنگام غروب"
+     },
+     "caption": "هنگام غروب، گذرگاه پر از خانواده‌ها می‌شود."
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/bcde4603-65cf-4f59-a2d3-b73af447697d.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AtyyR7WHbHpRVOQnyjz2orksb3P/Z",
+      "tone": "#a18d6d",
+      "alt": "جزئیات تیغه‌های چوبی"
+     },
+     "caption": "عرشه شیاردار: شکاف ۱۸ میلی‌متری آب پاشیده را تخلیه می‌کند."
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/633a78f9-2409-4b01-9db5-3fd72a79d8be.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7eM5QHAHHaoGk+Y/InX0ooqRn//Z",
+      "tone": "#dddad3",
+      "alt": "پلان پیاده‌راه"
+     },
+     "caption": "پلان پیاده‌راه، ۱:۱۰۰۰."
+    },
+    {
+     "type": "context",
+     "heading": "تنگه",
+     "body": "بندرعباس رو به تنگه هرمز است و دامنه جزر و مد در اینجا ۳٫۴ متر است. ستون‌ها برای طوفان ۵۰ ساله طراحی شده‌اند.",
+     "coordinates": "27.1832° N, 56.2666° E"
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "مدیر طراحی",
+       "names": [
+        "امید توکلی"
+       ]
+      },
+      {
+       "role": "منظر",
+       "names": [
+        "آتلیه سبز",
+        "Studio Hanne Berg"
+       ]
+      },
+      {
+       "role": "همکاران",
+       "names": [
+        "Lund & Partners"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "green-spine-masterplan",
+      "zagros-lodge",
+      "kavir-observatory"
+     ]
+    }
+   ],
+   "related": [
+    "green-spine-masterplan",
+    "zagros-lodge",
+    "kavir-observatory"
+   ]
+  },
+  {
+   "id": "green-spine-masterplan",
+   "slug": "green-spine-masterplan",
+   "index": 5,
+   "category": {
+    "key": "planning",
+    "name": "طراحی شهری"
+   },
+   "typology": {
+    "key": "urban",
+    "name": "شهری"
+   },
+   "status": "concept",
+   "year": 2026,
+   "area": 1200000,
+   "title": "طرح جامع ستون فقرات سبز",
+   "location": "شیراز، ایران",
+   "client": "شرکت نوسازی شهری شیراز",
+   "shortDescription": "محله‌ای ۱۲۰ هکتاری که با یک پارک پیوسته به هم دوخته می‌شود.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/6eff90a2-dd21-4c4a-aee5-6e5237e150f9.jpg",
+    "width": 2000,
+    "height": 2000,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AntCIoIIY1jZJFBKlQd+euaxbiONLiRVIwrkD860NPkcaPdAOwA6c9OKxSTnrWLM2f//Z",
+    "tone": "#7d8c75",
+    "alt": "نمای هوایی طرح جامع ستون فقرات سبز؛ حیاط‌هایی گرد یک حوضچه مرکزی"
+   },
+   "description": [
+    "طرح جامع ۱۲۰ هکتار زمین صنعتی سابق را در امتداد یک پارک پیوسته، یعنی ستون فقرات سبز، سازمان می‌دهد و حیاط‌هایی با کاربری مختلط در دو سوی آن می‌نشاند.",
+    "هر خانه در پنج دقیقه پیاده‌روی از ستون فقرات قرار دارد و خود ستون فقرات هم مسیل سیلاب، مسیر دوچرخه و باغ عمومی است."
+   ],
+   "facts": [
+    {
+     "label": "مساحت",
+     "value": "۱۲۰ هکتار"
+    },
+    {
+     "label": "واحدها",
+     "value": "۹٬۵۰۰"
+    },
+    {
+     "label": "فضای سبز",
+     "value": "۴۲٪ از سایت"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "heading": "یک پارک، چندین حیاط",
+     "body": [
+      "ستون فقرات سبز جایی است که محله در آن زهکشی می‌شود، قدم می‌زند و گرد هم می‌آید. بلوک‌های حیاط‌دار لبه‌هایش را می‌سازند و مغازه‌ها و مدارس دلیل عبور از آن می‌شوند.",
+      "طرح در چهار مرحله هشت‌ساله اجرا می‌شود و در هر مرحله کارآمد است."
+     ]
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/01d32184-765f-40dd-a739-02ba76e727c6.jpg",
+      "width": 1400,
+      "height": 1400,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7hQAoAAxUZiiyeBRCT5I5PSqbMdx5PWpGf/Z",
+      "tone": "#dcd9d3",
+      "alt": "نقشه طرح جامع"
+     },
+     "caption": "طرح جامع، ۱:۵۰۰۰."
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/fda47f64-c89e-4958-a01c-61d1ce8f8137.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ASzeM23yDCKuXz04659f1rJdot7bQcZ4oorEzZ//Z",
+      "tone": "#71836a",
+      "alt": "نمای هوایی یک بلوک محله"
+     },
+     "caption": "یک بلوک حیاط‌دار معمول، ۸۰ در ۸۰ متر."
+    },
+    {
+     "type": "quote",
+     "text": "«محله یک نقشه نیست؛ مجموع راه‌هایی است که مردم از آن می‌گذرند.»",
+     "attribution": "آرمان رحیمی، مدیر طراحی شهری"
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/eb08140f-da37-4870-8bf3-7971b4d1176c.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8Au/8ACQ2gjBWPnGduO/HH86qnxFFn/j2T9aKKjnl3Mz//2Q==",
+      "tone": "#92a099",
+      "alt": "خیابانی با حجم‌های پلکانی"
+     },
+     "caption": "خیابان معمول: ۱۸ متر عرض، درخت در دو سو."
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/4af346c7-abc1-44f9-b6df-1eba8838bead.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7ePlAen0qBpPmPyJ19KKKkZ//9k=",
+      "tone": "#dcd9d2",
+      "alt": "برش خیابان"
+     },
+     "caption": "برش خیابان، ۱:۱۰۰."
+    },
+    {
+     "type": "facts",
+     "heading": "اهداف",
+     "items": [
+      {
+       "label": "پیاده‌روی تا ستون فقرات",
+       "value": "کمتر از ۵ دقیقه"
+      },
+      {
+       "label": "تاج پوشش درختی",
+       "value": "۳۵٪"
+      },
+      {
+       "label": "آب باران نگهداری‌شده",
+       "value": "۸۰٪"
+      },
+      {
+       "label": "ارزیابی",
+       "value": "LEED ND Gold (هدف)"
+      }
+     ]
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "مدیر طراحی",
+       "names": [
+        "آرمان رحیمی"
+       ]
+      },
+      {
+       "role": "تیم پروژه",
+       "names": [
+        "ندا کریمی",
+        "مینا صادقی",
+        "کیان حیدری",
+        "پریسا جلالی"
+       ]
+      },
+      {
+       "role": "همکاران",
+       "names": [
+        "Studio Hanne Berg",
+        "Lund & Partners"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "tehran-terraces",
+      "hormuz-shore-walk",
+      "caspian-reading-house"
+     ]
+    }
+   ],
+   "related": [
+    "tehran-terraces",
+    "hormuz-shore-walk",
+    "caspian-reading-house"
+   ]
+  },
+  {
+   "id": "naqsh-atelier-interior",
+   "slug": "naqsh-atelier-interior",
+   "index": 6,
+   "category": {
+    "key": "interiors",
+    "name": "فضای داخلی"
+   },
+   "typology": {
+    "key": "culture",
+    "name": "فرهنگی"
+   },
+   "status": "completed",
+   "year": 2023,
+   "area": 640,
+   "title": "فضای داخلی آتلیه نقش",
+   "location": "تهران، ایران",
+   "client": "بنیاد طراحی NAQSH",
+   "shortDescription": "گالری و کارگاهی که از یک چاپخانه قدیمی تراشیده شده است.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/6ab535d6-90a3-4596-914f-cd2ca9839399.jpg",
+    "width": 2400,
+    "height": 1250,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABQAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8Asx6nNwiKqr0AxnHFVZLkNIzeWOST1oornRu2f//Z",
+    "tone": "#b1937d",
+    "alt": "سه دهانه قوسی درخشان در گالری آتلیه نقش"
+   },
+   "description": [
+    "آتلیه یک چاپخانه قدیمی را به گالری، کارگاه و کتابخانه بدل می‌کند. دهانه‌های قوسی که در دیوارهای آجری قدیمی بریده شده‌اند، از حیاط نور وام می‌گیرند.",
+    "مبلمان از مصالح تخریب‌شده داخل ساخته شده است؛ هر نیمکت و میز زمانی تیرچه کف یا قفسه چاپخانه بوده است."
+   ],
+   "facts": [
+    {
+     "label": "مصالح بازیافتی",
+     "value": "۷۲٪ وزنی"
+    },
+    {
+     "label": "نورپردازی",
+     "value": "LED گرم ۲۲۰۰ کلوین، قابل تنظیم"
+    },
+    {
+     "label": "برنامه",
+     "value": "گالری، کارگاه، کتابخانه"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "body": [
+      "دیوارهای آجری موجود خام ماندند. کار تازه به سه حرکت محدود است: دهانه‌های قوسی، کف چوبی و سقفی از نور گرم.",
+      "شب‌ها قوس‌ها مانند فانوس از خیابان می‌درخشند."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/165e5a1f-dbb1-42e6-80cd-2de7b8a09586.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A1jdQfZjCEGdmM0VgRu2x/mP3T3ornRuz/9k=",
+      "tone": "#b1957e",
+      "alt": "گالری با پنج دهانه قوسی"
+     },
+     "caption": "گالری: پنج دهانه، یک محور."
+    },
+    {
+     "type": "quote",
+     "text": "«اینجا هیچ‌چیز نو خریده نشده؛ همه‌چیز خاطره خود ساختمان است.»",
+     "attribution": "سارا مرادی، معمار داخلی"
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/2b55100e-5e91-4377-9935-9f368bfb837e.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ApNKMHA4quZEyfloornsdlz//2Q==",
+      "tone": "#895e4f",
+      "alt": "جزئیات پرده چوبی"
+     },
+     "caption": "پرده‌ای چوبی کارگاه و گالری را جدا می‌کند."
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/d37a7efe-dc0b-4694-8c1f-f9e8dd2ee01c.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A0/tkZOVkwueBs7c0gvrPA3N83f5O9FFZWNmz/9k=",
+      "tone": "#b59d8c",
+      "alt": "آرکید طاق‌دار در حیاط"
+     },
+     "caption": "آرکید حیاط، افزوده‌شده در مرحله دوم."
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/c126c5f6-1133-4166-87dc-706dd1444c83.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7hChQFen0qEvBk/L+lFFSM//2Q==",
+      "tone": "#dddbd4",
+      "alt": "پلان طبقه"
+     },
+     "caption": "پلان طبقه، ۱:۵۰."
+    },
+    {
+     "type": "context",
+     "heading": "نشانی",
+     "body": "خیابان انقلاب، نزدیک محله کتاب‌فروشی‌ها. آتلیه شنبه تا چهارشنبه، ۰۹:۰۰ تا ۱۷:۰۰ باز است.",
+     "coordinates": "35.7012° N, 51.3896° E"
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "مدیر طراحی",
+       "names": [
+        "سارا مرادی"
+       ]
+      },
+      {
+       "role": "تیم پروژه",
+       "names": [
+        "پریسا جلالی",
+        "امید توکلی"
+       ]
+      },
+      {
+       "role": "نورپردازی",
+       "names": [
+        "Lumen Studio"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "meridian-pavilion",
+      "caspian-reading-house",
+      "tehran-terraces"
+     ]
+    }
+   ],
+   "related": [
+    "meridian-pavilion",
+    "caspian-reading-house",
+    "tehran-terraces"
+   ]
+  },
+  {
+   "id": "kavir-observatory",
+   "slug": "kavir-observatory",
+   "index": 7,
+   "category": {
+    "key": "architecture",
+    "name": "معماری"
+   },
+   "typology": {
+    "key": "science",
+    "name": "علمی"
+   },
+   "status": "concept",
+   "year": 2026,
+   "area": 5600,
+   "title": "رصدخانه کویر",
+   "location": "گرمسار، ایران",
+   "client": "رصدخانه ملی ایران",
+   "shortDescription": "گنبدی پژوهشی و بال کم‌ارتفاع بازدیدکنندگان در آسمان تاریک کویر.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/5b080d9f-d5ae-41ed-a370-8386fadb7355.jpg",
+    "width": 2400,
+    "height": 1250,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABQAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AurqzFB/o8fTFQnVRk/6LH+dFFcvtJ9zf2cex/9k=",
+    "tone": "#a6a59a",
+    "alt": "گنبد رصدخانه کویر بر فراز تپه‌های ماسه‌ای"
+   },
+   "description": [
+    "رصدخانه کویر در لبه یک پهنه حفاظت‌شده آسمان تاریک ایستاده است. گنبدی پژوهشی بر استوانه‌ای قطور از میان تپه‌ها بالا می‌آید و بال کم‌ارتفاع بازدیدکنندگان پشت آن‌ها پنهان است.",
+    "تمام روشنایی زیر خط افق است و ساختمان به رنگ کویر پوشیده شده تا در روز ناپدید شود."
+   ],
+   "facts": [
+    {
+     "label": "تلسکوپ",
+     "value": "بازتابی ۲٫۴ متری"
+    },
+    {
+     "label": "آسمان تاریک",
+     "value": "کلاس ۲ بورتل"
+    },
+    {
+     "label": "نور",
+     "value": "زیر خط افق، ۱۸۰۰ کلوین"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "body": [
+      "در روز، رصدخانه سیمایی آرام بر تپه‌هاست. شب‌ها گنبد باز می‌شود و بال بازدیدکنندگان در خط افق می‌درخشد و نه بالاتر.",
+      "استوانه در محل با ماسه و آهک محلی ریخته می‌شود تا رنگ و دمای زمین را بگیرد."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/5adb5908-4585-4330-84f0-b944d93b5a26.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8Awmh04wl2uIg3ACr3Hr+lFYGTjrRT17juux//2Q==",
+      "tone": "#4c444a",
+      "alt": "رصدخانه در شب"
+     },
+     "caption": "شب‌ها گنبد به آسمان باز می‌شود."
+    },
+    {
+     "type": "quote",
+     "text": "«تاریک‌ترین چیزی که اینجا ساختیم، طرح روشنایی است.»",
+     "attribution": "کیان حیدری، مسئول روشنایی"
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/3b234dcc-abf2-47e1-a201-9035988e589b.jpg",
+      "width": 1800,
+      "height": 2200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A25DFHN5TKNu3Ofy/xFFYRlkMWTI+cf3jRWXt5F+xif/Z",
+      "tone": "#a5a69f",
+      "alt": "برج پژوهشی همسایه"
+     },
+     "caption": "برج پژوهشگران، پنج حجم روی هم."
+    },
+    {
+     "type": "image",
+     "shape": "wide",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/9ed6737e-df88-4b89-a620-e0bbf80ff544.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A01nfbjC/lUfmOf4h/wB8j/CiisOeXc05Y9j/2Q==",
+      "tone": "#a3a7a1",
+      "alt": "تراس‌هایی میان تپه‌ها"
+     },
+     "caption": "تراس‌های بازدیدکننده در دل تپه."
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/d8a99a8d-3a4c-482f-b847-5ba0e9707ded.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7dMFQVwBUReDJyo/KiipGf/Z",
+      "tone": "#dbd9d2",
+      "alt": "برش از گنبد"
+     },
+     "caption": "برش از میان گنبد، ۱:۱۰۰."
+    },
+    {
+     "type": "facts",
+     "heading": "در یک نگاه",
+     "items": [
+      {
+       "label": "قطر گنبد",
+       "value": "۱۴ متر"
+      },
+      {
+       "label": "ارتفاع",
+       "value": "۱٬۰۵۰ متر"
+      },
+      {
+       "label": "شب‌های صاف",
+       "value": "۲۹۰ در سال"
+      },
+      {
+       "label": "تماس",
+       "value": "research@ravino.studio"
+      }
+     ]
+    },
+    {
+     "type": "context",
+     "heading": "کویر",
+     "body": "گرمسار ۱۲۰ کیلومتر جنوب‌شرقی تهران است. دسترسی به سایت از بزرگراه کویر با ۹ کیلومتر جاده خاکی است.",
+     "coordinates": "35.2183° N, 52.3400° E"
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "مدیر طراحی",
+       "names": [
+        "کیان حیدری"
+       ]
+      },
+      {
+       "role": "تیم پروژه",
+       "names": [
+        "ندا کریمی",
+        "آرمان رحیمی"
+       ]
+      },
+      {
+       "role": "همکاران",
+       "names": [
+        "Atelier Nord",
+        "Lumen Studio"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "zagros-lodge",
+      "hormuz-shore-walk",
+      "meridian-pavilion"
+     ]
+    }
+   ],
+   "related": [
+    "zagros-lodge",
+    "hormuz-shore-walk",
+    "meridian-pavilion"
+   ]
+  }
+ ],
+ "meta": {
+  "total": 8,
+  "locale": "fa",
+  "revision": 125
+ }
+}

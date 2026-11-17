@@ -1,0 +1,62 @@
+{
+ "data": {
+  "categories": [
+   {
+    "key": "architecture",
+    "name": "معماری",
+    "count": 5
+   },
+   {
+    "key": "interiors",
+    "name": "فضای داخلی",
+    "count": 1
+   },
+   {
+    "key": "landscape",
+    "name": "منظر",
+    "count": 1
+   },
+   {
+    "key": "planning",
+    "name": "طراحی شهری",
+    "count": 1
+   }
+  ],
+  "typologies": [
+   {
+    "key": "culture",
+    "name": "فرهنگی",
+    "count": 3
+   },
+   {
+    "key": "residential",
+    "name": "مسکونی",
+    "count": 1
+   },
+   {
+    "key": "hospitality",
+    "name": "اقامتی",
+    "count": 1
+   },
+   {
+    "key": "public-space",
+    "name": "فضای عمومی",
+    "count": 1
+   },
+   {
+    "key": "urban",
+    "name": "شهری",
+    "count": 1
+   },
+   {
+    "key": "science",
+    "name": "علمی",
+    "count": 1
+   }
+  ]
+ },
+ "meta": {
+  "locale": "fa",
+  "revision": 125
+ }
+}

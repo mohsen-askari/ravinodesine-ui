@@ -1,0 +1,297 @@
+/* Panels are sized from --H (the live row height) so they stay in proportion while the row
+   resizes. Inline direction comes from the document: nothing here names left or right. */
+
+.panel {
+  flex: 0 0 auto;
+}
+
+/* ---- text blocks ---- */
+.text {
+  inline-size: clamp(250px, 21vw, 330px);
+  align-self: start;
+  display: grid;
+  gap: 1.1em;
+  font-size: 13.5px;
+  line-height: var(--lh-body);
+}
+:global(html[lang='fa']) .text {
+  font-size: 14px;
+  inline-size: clamp(260px, 22vw, 350px);
+}
+.heading {
+  font-size: 11.5px;
+  font-weight: 400;
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--muted);
+}
+:global(html[lang='fa']) .heading {
+  font-size: 13px;
+}
+.lead {
+  font-size: clamp(17px, 1.45vw, 21px);
+  line-height: 1.32;
+  text-wrap: balance;
+}
+:global(html[lang='fa']) .lead {
+  line-height: 1.75;
+}
+.body {
+  text-wrap: pretty;
+  hyphens: auto;
+}
+.factList {
+  display: grid;
+  gap: 10px;
+  padding-block-start: 14px;
+  border-block-start: 1px solid var(--hairline);
+}
+.factList dt,
+.bigFacts dt,
+.coordsLabel,
+.role {
+  font-size: 10.5px;
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 400;
+}
+:global(html[lang='fa']) .factList dt,
+:global(html[lang='fa']) .bigFacts dt,
+:global(html[lang='fa']) .coordsLabel,
+:global(html[lang='fa']) .role {
+  font-size: 12px;
+}
+.factList dd {
+  font-size: 13.5px;
+}
+
+/* ---- figures ---- */
+.figure {
+  --k: 1;
+  --cap-space: 58px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+.picture {
+  position: relative;
+  inline-size: auto;
+  aspect-ratio: var(--ar);
+  /* Never taller than the row allows (leaving room for the caption underneath), never wider
+     than the strip's reading cap. */
+  block-size: min(calc(var(--H) * var(--k)), calc(var(--H) - var(--cap-space)), calc(var(--wcap) / var(--ar)));
+  overflow: hidden;
+  background: var(--wash);
+}
+.img {
+  object-fit: cover;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+.caption {
+  inline-size: 0;
+  min-inline-size: 100%;
+  font-size: 11.5px;
+  line-height: 1.45;
+  color: var(--muted);
+}
+:global(html[lang='fa']) .caption {
+  font-size: 12.5px;
+  line-height: 1.8;
+}
+
+.figure[data-shape='portrait'] {
+  --k: 1;
+  align-self: start;
+}
+.figure[data-shape='wide'] {
+  --k: 0.6;
+  align-self: center;
+}
+.figure[data-shape='landscape'] {
+  --k: 0.8;
+}
+.figure[data-shape='square'] {
+  --k: 0.88;
+}
+.figure[data-shape='diagram'] {
+  --k: 0.74;
+}
+/* Vertical rhythm for the shapes that do not pin themselves: start / middle / end of the row. */
+.figure[data-shape='landscape'][data-rhythm='0'],
+.figure[data-shape='square'][data-rhythm='0'],
+.figure[data-shape='diagram'][data-rhythm='0'] {
+  align-self: start;
+}
+.figure[data-shape='landscape'][data-rhythm='1'],
+.figure[data-shape='square'][data-rhythm='1'],
+.figure[data-shape='diagram'][data-rhythm='1'] {
+  align-self: center;
+}
+.figure[data-shape='landscape'][data-rhythm='2'],
+.figure[data-shape='square'][data-rhythm='2'],
+.figure[data-shape='diagram'][data-rhythm='2'] {
+  align-self: end;
+}
+
+/* ---- two images, stacked ---- */
+.pair {
+  align-self: start;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+.pairItem {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+.pairItem .picture {
+  block-size: min(calc(var(--H) * 0.4), calc(var(--wcap) / var(--ar)));
+}
+
+/* ---- quote ---- */
+.quote {
+  inline-size: clamp(280px, 28vw, 440px);
+  align-self: center;
+  display: grid;
+  gap: 22px;
+}
+.quote blockquote p {
+  font-size: clamp(20px, 1.9vw, 28px);
+  line-height: 1.28;
+  text-wrap: balance;
+}
+:global(html[lang='fa']) .quote blockquote p {
+  line-height: 1.7;
+  font-size: clamp(19px, 1.8vw, 26px);
+}
+.attribution {
+  font-size: 10.5px;
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--muted);
+}
+:global(html[lang='fa']) .attribution {
+  font-size: 12.5px;
+}
+
+/* ---- facts ---- */
+.factsPanel {
+  inline-size: clamp(240px, 20vw, 300px);
+  align-self: end;
+}
+.bigFacts {
+  display: grid;
+  gap: 18px;
+}
+.bigFacts dd {
+  font-size: clamp(20px, 1.8vw, 26px);
+  line-height: 1.2;
+}
+:global(html[lang='fa']) .bigFacts dd {
+  line-height: 1.6;
+}
+
+.coords {
+  display: grid;
+  gap: 2px;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---- credits ---- */
+.credits {
+  align-self: start;
+  display: grid;
+  gap: 18px;
+  font-size: 13px;
+}
+.creditColumns {
+  display: flex;
+  gap: clamp(28px, 3.4vw, 56px);
+}
+.creditColumns h4 {
+  margin-block-end: 8px;
+}
+.creditColumns li {
+  line-height: 1.55;
+}
+:global(html[lang='fa']) .creditColumns li {
+  line-height: 1.9;
+}
+
+/* ---- related ---- */
+.related {
+  align-self: end;
+  display: grid;
+  gap: 16px;
+}
+.relatedList {
+  display: flex;
+  gap: clamp(18px, 2vw, 32px);
+}
+.relatedList a {
+  display: grid;
+  gap: 8px;
+  inline-size: clamp(150px, 15vw, 230px);
+}
+.relatedThumb {
+  position: relative;
+  display: block;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: var(--wash);
+}
+.relatedThumb .img {
+  transition: transform 0.6s var(--ease-out);
+}
+.relatedList a:hover .img {
+  transform: scale(1.04);
+}
+.relatedTitle {
+  font-size: 14px;
+  line-height: 1.3;
+}
+.relatedPlace {
+  font-size: 10.5px;
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--muted);
+}
+:global(html[lang='fa']) .relatedTitle {
+  font-size: 14.5px;
+  line-height: 1.6;
+}
+:global(html[lang='fa']) .relatedPlace {
+  font-size: 12.5px;
+}
+
+@media (max-width: 719px) {
+  .text {
+    inline-size: min(76vw, 320px);
+  }
+  .quote {
+    inline-size: min(78vw, 360px);
+  }
+  .factsPanel {
+    inline-size: min(70vw, 280px);
+  }
+  .relatedList a {
+    inline-size: 150px;
+  }
+  .figure[data-shape='wide'] {
+    --k: 0.72;
+  }
+  .figure[data-shape='landscape'] {
+    --k: 0.84;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .relatedThumb .img {
+    transition: none;
+  }
+}

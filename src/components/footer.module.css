@@ -1,0 +1,53 @@
+.footer {
+  padding: clamp(56px, 9vh, 120px) clamp(20px, 5vw, 80px) 40px;
+  display: grid;
+  gap: 56px;
+  justify-items: center;
+}
+.columns {
+  inline-size: min(100%, 980px);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 32px 40px;
+}
+.label {
+  margin-block-end: 8px;
+  font-size: 11.5px;
+  font-weight: 400;
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--muted);
+}
+:global(html[lang='fa']) .label {
+  font-size: 13px;
+}
+.link,
+.address a {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 1px;
+}
+.address {
+  font-style: normal;
+  font-size: 14.5px;
+}
+.list {
+  display: grid;
+  gap: 2px;
+  font-size: 14.5px;
+}
+.small {
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: var(--muted);
+  max-inline-size: 36ch;
+}
+.top {
+  padding: 12px 8px;
+  font-size: 12.5px;
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-underline-offset: 6px;
+  text-decoration-thickness: 1px;
+}

@@ -1,0 +1,38 @@
+{
+ "data": {
+  "studio": {
+   "lead": "Ravino is an architecture studio working across buildings, interiors, landscape and cities.",
+   "body": [
+    "We start from the site and from the people who will use it. Each project is drawn as a sequence of spaces rather than as an object, and presented the same way: one image at a time, read from one side to the other.",
+    "The studio works in Tehran with collaborators in Oslo and Istanbul — for example Atelier Nord on timber structures and Lund & Partners on coastal engineering. Our drawings are produced in BIM (ISO 19650) and our buildings are designed to meet LEED Gold or better."
+   ],
+   "facts": [
+    {
+     "label": "Founded",
+     "value": "2014"
+    },
+    {
+     "label": "Team",
+     "value": "38 architects and designers"
+    },
+    {
+     "label": "Disciplines",
+     "value": "Architecture, interiors, landscape, planning"
+    }
+   ]
+  },
+  "contact": {
+   "lead": "Tell us about the site, the programme and the timeline.",
+   "email": "hello@ravino.studio",
+   "phone": "+98 21 5555 0142",
+   "web": "https://www.ravino.studio",
+   "address": "No. 12, Valiasr Avenue, Tehran, Iran",
+   "hours": "Saturday – Wednesday, 09:00 – 17:00"
+  },
+  "social": []
+ },
+ "meta": {
+  "locale": "en",
+  "revision": 125
+ }
+}

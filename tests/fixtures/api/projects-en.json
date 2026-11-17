@@ -1,0 +1,1339 @@
+{
+ "data": [
+  {
+   "id": "meridian-pavilion",
+   "slug": "meridian-pavilion",
+   "index": 0,
+   "category": {
+    "key": "architecture",
+    "name": "Architecture"
+   },
+   "typology": {
+    "key": "culture",
+    "name": "Culture"
+   },
+   "status": "construction",
+   "year": 2025,
+   "area": 4800,
+   "title": "Meridian Pavilion",
+   "location": "Isfahan, Iran",
+   "client": "Isfahan Municipality Cultural Organisation",
+   "shortDescription": "Six vaulted halls that frame the Zayandeh River at dawn.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/553041e6-1ec5-4ca3-bdc1-9a8bf7bd3b43.jpg",
+    "width": 2400,
+    "height": 1250,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABQAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A0FukK5ECgen+RURvIsn/AEVf++v/AK1FFUhXP//Z",
+    "tone": "#a4a2a5",
+    "alt": "Six vaulted halls of the Meridian Pavilion reflected in a still pool at dawn"
+   },
+   "description": [
+    "The Meridian Pavilion lines up six vaulted halls along the line of the old Isfahan meridian, so that each hall opens to the river at a slightly different angle of morning light.",
+    "The halls are cast in lime-pigmented concrete and share a single shallow pool, which doubles the arcade in water and cools the air before it enters the building."
+   ],
+   "facts": [
+    {
+     "label": "Structure",
+     "value": "Cast concrete vaults, 14 m span"
+    },
+    {
+     "label": "Certification",
+     "value": "LEED Gold (target)"
+    },
+    {
+     "label": "Collaborator",
+     "value": "Atelier Nord, Oslo"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "heading": "A hall for every hour",
+     "body": [
+      "Each vault is oriented a few degrees from its neighbour. As the sun climbs, the glow moves from the first hall to the last, turning the pavilion into a slow instrument for telling time.",
+      "Programme: a 600-seat hall, three exhibition rooms, a reading garden and a café at the river edge."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/1446392c-8f03-4cf7-812a-eac1bc96b0d8.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A1FurXHyj5f8AcHrUX2iw/iznv8tFFUlbqJu/Q//Z",
+      "tone": "#aaa29e",
+      "alt": "The arcade seen from the pool edge"
+     },
+     "caption": "The arcade from the pool edge, late morning."
+    },
+    {
+     "type": "quote",
+     "text": "“We wanted the building to arrive slowly, the way light arrives at a courtyard.”",
+     "attribution": "Neda Karimi, design lead"
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/7400471b-c888-428b-8101-e5d4c8ea5d0c.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A1muoPs5gCDdsxn8KKwI3bY/zH7p70Vzo3Z//2Q==",
+      "tone": "#b1947e",
+      "alt": "Interior of the main hall with three arched openings"
+     },
+     "caption": "Main hall: three arched openings frame the river."
+    },
+    {
+     "type": "context",
+     "heading": "Site",
+     "body": "The plot sits 300 m north-west of Si-o-se-pol, where the river widens. Foot traffic from the old bridge enters at the third hall.",
+     "coordinates": "32.6366° N, 51.6676° E"
+    },
+    {
+     "type": "imagePair",
+     "images": [
+      {
+       "src": "https://cms.ravino.test/storage/media/2026/10/9899c877-bd10-437a-8ee7-22df2bf69115.jpg",
+       "width": 1400,
+       "height": 1400,
+       "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8Ae8iDAHTFViY80mTt/CqpJyea57HTc//Z",
+       "tone": "#977865",
+       "alt": "Terracotta fins of the south facade"
+      },
+      {
+       "src": "https://cms.ravino.test/storage/media/2026/10/bd2c247c-4df6-4fb4-ad06-b22988b600c3.jpg",
+       "width": 1800,
+       "height": 1200,
+       "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7hChQFen0qEvBk/L+lFFSM//2Q==",
+       "tone": "#dddad3",
+       "alt": "Ground plan drawing"
+      }
+     ],
+     "captions": [
+      "South facade: terracotta fins, 40 mm apart.",
+      "Ground plan, 1:250."
+     ]
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/f78a5a9f-aa18-4b35-96be-5d1c66e7e98d.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7ePlAen0qBpPmPyJ19KKKkZ//9k=",
+      "tone": "#dbd8d2",
+      "alt": "Longitudinal section drawing"
+     },
+     "caption": "Longitudinal section: the roofs step down toward the river."
+    },
+    {
+     "type": "facts",
+     "heading": "At a glance",
+     "items": [
+      {
+       "label": "Halls",
+       "value": "6"
+      },
+      {
+       "label": "Span",
+       "value": "14 m"
+      },
+      {
+       "label": "Pool",
+       "value": "1,200 m²"
+      },
+      {
+       "label": "Energy",
+       "value": "−38% vs. baseline"
+      }
+     ]
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "Design lead",
+       "names": [
+        "Neda Karimi"
+       ]
+      },
+      {
+       "role": "Project team",
+       "names": [
+        "Arman Rahimi",
+        "Sara Moradi",
+        "Kian Heydari"
+       ]
+      },
+      {
+       "role": "Collaborators",
+       "names": [
+        "Atelier Nord",
+        "Lund & Partners"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "naqsh-atelier-interior",
+      "caspian-reading-house",
+      "kavir-observatory"
+     ]
+    }
+   ],
+   "related": [
+    "naqsh-atelier-interior",
+    "caspian-reading-house",
+    "kavir-observatory"
+   ]
+  },
+  {
+   "id": "tehran-terraces",
+   "slug": "tehran-terraces",
+   "index": 1,
+   "category": {
+    "key": "architecture",
+    "name": "Architecture"
+   },
+   "typology": {
+    "key": "residential",
+    "name": "Residential"
+   },
+   "status": "completed",
+   "year": 2024,
+   "area": 12400,
+   "title": "Tehran Terraces",
+   "location": "Tehran, Iran",
+   "client": "Alborz Development Co.",
+   "shortDescription": "Sixty homes stacked as planted terraces facing the Alborz.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/bc54f7d3-d124-4f6d-8696-ff77b2e62044.jpg",
+    "width": 2000,
+    "height": 2000,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A3k2bRtX5arNNbbj+7k6/3axEnm2f61/++jURuJ8/66T/AL6NHMxWP//Z",
+    "tone": "#a3a8a8",
+    "alt": "Tehran Terraces, six stepped levels planted with trees against the Alborz foothills"
+   },
+   "description": [
+    "Tehran Terraces turns a steep north-facing plot into sixty apartments, each with a private garden terrace as large as its living room.",
+    "The stepped section lets every home look over the roof of the one below, and keeps the street edge at the scale of the neighbouring houses."
+   ],
+   "facts": [
+    {
+     "label": "Structure",
+     "value": "RC frame, post-tensioned slabs"
+    },
+    {
+     "label": "Homes",
+     "value": "60"
+    },
+    {
+     "label": "Planting",
+     "value": "2,300 trees and shrubs"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "body": [
+      "Every terrace is a garden: planters are cast into the slab edge, irrigated from the building’s grey-water system.",
+      "From the street the building reads as a hill; from the terraces it reads as a village."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "wide",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/fdebb984-1d96-4a13-8aa4-553d5d462e10.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A0EupQuPlP1WmfaZCf4f++RRRSuxH/9k=",
+      "tone": "#a1a6a7",
+      "alt": "Garden terraces in a wide view"
+     },
+     "caption": "Planted terraces catch the afternoon light."
+    },
+    {
+     "type": "quote",
+     "text": "“The terrace is the room we never had in the apartment block.”",
+     "attribution": "Resident, third floor"
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/1dd71cd4-963a-43f8-aee6-6bdc175435b8.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AbK6bSO3/AOuiqzk+UaKQj//Z",
+      "tone": "#777d76",
+      "alt": "Detail of the timber screen"
+     },
+     "caption": "Screens of thermally modified ash, 12 mm slats."
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/971ad06d-dd27-479b-8d16-a9ada7436ecb.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A1o9WjVRHGikAADK/nVGW4t2lcg8FielFFSB//9k=",
+      "tone": "#a6a8a2",
+      "alt": "Living room opening onto the terrace"
+     },
+     "caption": "A living room opens onto its own garden."
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/343a1b32-ec6c-4d1a-b57a-0377a1a7104c.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7ddpUFcAVEXgycqPyooqRn//2Q==",
+      "tone": "#dbd8d2",
+      "alt": "Section through the stepped terraces"
+     },
+     "caption": "Section A-A: each level is set back 3.6 m."
+    },
+    {
+     "type": "context",
+     "heading": "Neighbourhood",
+     "body": "The site is on the slopes of Darabad, 1,650 m above sea level. Views run north to Mount Tochal.",
+     "coordinates": "35.7790° N, 51.5210° E"
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "Design lead",
+       "names": [
+        "Arman Rahimi"
+       ]
+      },
+      {
+       "role": "Project team",
+       "names": [
+        "Neda Karimi",
+        "Mina Sadeghi",
+        "Omid Tavakoli"
+       ]
+      },
+      {
+       "role": "Landscape",
+       "names": [
+        "Green Atelier",
+        "Studio Hanne Berg"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "green-spine-masterplan",
+      "zagros-lodge",
+      "meridian-pavilion"
+     ]
+    }
+   ],
+   "related": [
+    "green-spine-masterplan",
+    "zagros-lodge",
+    "meridian-pavilion"
+   ]
+  },
+  {
+   "id": "caspian-reading-house",
+   "slug": "caspian-reading-house",
+   "index": 2,
+   "category": {
+    "key": "architecture",
+    "name": "Architecture"
+   },
+   "typology": {
+    "key": "culture",
+    "name": "Culture"
+   },
+   "status": "design",
+   "year": 2025,
+   "area": 3200,
+   "title": "Caspian Reading House",
+   "location": "Rasht, Iran",
+   "client": "Gilan Library Foundation",
+   "shortDescription": "A public library arranged around a rain-fed water court.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/1ec272ef-803e-4e27-a4fc-7cd319e41d6d.jpg",
+    "width": 2400,
+    "height": 1250,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABQAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ALVy1iGGFVRgqBwf8+9Y7yBnYhAMnOB2oorEyZ//Z",
+    "tone": "#72846c",
+    "alt": "Aerial view of the Caspian Reading House ringed around a water court"
+   },
+   "description": [
+    "The Reading House is a ring of twelve small pavilions around a rain-fed water court. Each pavilion holds one reading room with a single large window to the court.",
+    "Rasht’s wet climate becomes the building’s main material: rainwater is collected, slowed and displayed rather than hidden."
+   ],
+   "facts": [
+    {
+     "label": "Collection",
+     "value": "90,000 volumes"
+    },
+    {
+     "label": "Roof",
+     "value": "Green roofs with copper gutters"
+    },
+    {
+     "label": "Structure",
+     "value": "CLT and glulam"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "body": [
+      "Twelve pavilions, twelve atmospheres. Each reading room has its own ceiling height, its own timber and its own view of the water.",
+      "The ring is open on the south, where the garden meets the city street."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/ae4da829-e4de-4398-9633-ab3b902f873a.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8Ait3iNmxUBVUDfkZGe2eOefY1ms0e44BxmiisTJn/2Q==",
+      "tone": "#6a7e64",
+      "alt": "The water court seen from above"
+     },
+     "caption": "The water court, seen from the roof garden."
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/a36c88ff-3a19-4df0-9d22-a2b080fa3e2f.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A6A3lt9nNuCm/ZjrzRXExO+XO5s4POaKzTDmuf//Z",
+      "tone": "#a8a693",
+      "alt": "A reading room with arched windows"
+     },
+     "caption": "Reading room 07: arched windows, oak joinery."
+    },
+    {
+     "type": "quote",
+     "text": "“A library should feel like shelter in the rain, not like storage.”",
+     "attribution": "Mina Sadeghi, project architect"
+    },
+    {
+     "type": "image",
+     "shape": "wide",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/4fb7f643-98a5-4a60-b71f-ef6b67c5f607.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AGnBXheKqmZNx+XvRRXPY2uf/2Q==",
+      "tone": "#8f7c66",
+      "alt": "Facade of timber fins"
+     },
+     "caption": "The timber screen filters the low Caspian sun."
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/e462490b-b4f7-4ae2-a81d-d0bc545599e0.jpg",
+      "width": 1400,
+      "height": 1400,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7lVAUADiojFFk8CiEnyRyelU2Y7jyetSM//Z",
+      "tone": "#dddad3",
+      "alt": "First floor plan"
+     },
+     "caption": "First floor plan, 1:200 — twelve pavilions around the court."
+    },
+    {
+     "type": "facts",
+     "heading": "At a glance",
+     "items": [
+      {
+       "label": "Pavilions",
+       "value": "12"
+      },
+      {
+       "label": "Seats",
+       "value": "420"
+      },
+      {
+       "label": "Rain harvest",
+       "value": "1,800 m³ / year"
+      },
+      {
+       "label": "Standard",
+       "value": "ISO 14001"
+      }
+     ]
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "Design lead",
+       "names": [
+        "Mina Sadeghi"
+       ]
+      },
+      {
+       "role": "Project team",
+       "names": [
+        "Omid Tavakoli",
+        "Parisa Jalali"
+       ]
+      },
+      {
+       "role": "Collaborators",
+       "names": [
+        "Atelier Nord",
+        "Studio Hanne Berg"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "meridian-pavilion",
+      "naqsh-atelier-interior",
+      "green-spine-masterplan"
+     ]
+    }
+   ],
+   "related": [
+    "meridian-pavilion",
+    "naqsh-atelier-interior",
+    "green-spine-masterplan"
+   ]
+  },
+  {
+   "id": "zagros-lodge",
+   "slug": "zagros-lodge",
+   "index": 3,
+   "category": {
+    "key": "architecture",
+    "name": "Architecture"
+   },
+   "typology": {
+    "key": "hospitality",
+    "name": "Hospitality"
+   },
+   "status": "completed",
+   "year": 2023,
+   "area": 2150,
+   "title": "Zagros Lodge",
+   "location": "Chelgerd, Iran",
+   "client": "Zagros Hospitality Group",
+   "shortDescription": "Stone volumes set into a mountain valley like boulders.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/9fda796f-c835-4418-9560-feac132a5430.jpg",
+    "width": 1800,
+    "height": 2200,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A3DdWpRQq4HcH0x/9cUVyzO/kD5m6etFYG1j/2Q==",
+    "tone": "#b09e8b",
+    "alt": "Zagros Lodge: stone volumes catching low sun in the mountains"
+   },
+   "description": [
+    "Zagros Lodge is a cluster of eight stone volumes that follow the fall of the valley. The rooms are small, deep and warm; the shared spaces are large and open to the mountains.",
+    "All stone comes from a quarry four kilometres away, and the lodge runs on a micro-hydro turbine in the stream below."
+   ],
+   "facts": [
+    {
+     "label": "Rooms",
+     "value": "24 suites"
+    },
+    {
+     "label": "Material",
+     "value": "Local stone, larch, lime plaster"
+    },
+    {
+     "label": "Energy",
+     "value": "Micro-hydro, 40 kW"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "body": [
+      "The lodge is arranged in a loose line so that every room sees the valley and none sees another room.",
+      "Walls are 60 cm thick, giving the rooms a calm thermal inertia through the long mountain winter."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "wide",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/a31d25ef-69e9-4055-a30e-4ba79a98fd8d.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AlGp3IAIK89tvFMOrXOTxF/3wKKK5zc//2Q==",
+      "tone": "#ac9986",
+      "alt": "The lodge in its valley"
+     },
+     "caption": "The valley at golden hour."
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/6bc55b2c-9ad6-4b05-9a31-dfaa7e0da98e.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ApzMuSO1FV5D8tFc9jsbP/9k=",
+      "tone": "#8a5f4f",
+      "alt": "Stone wall detail"
+     },
+     "caption": "Dry-laid stone, 60 cm wall section."
+    },
+    {
+     "type": "quote",
+     "text": "“You sleep inside the mountain, and wake up inside the view.”",
+     "attribution": "Guest book, winter 2024"
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/8dc72656-3331-4d12-92f5-2a7161a62a6e.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A2U1RAgSMDAGBke3+NU5bi3aV2B4LE9KKKzSszR7H/9k=",
+      "tone": "#bba999",
+      "alt": "A suite interior with arched openings"
+     },
+     "caption": "Suite 12: three arched openings frame the ridge."
+    },
+    {
+     "type": "context",
+     "heading": "Valley",
+     "body": "Chelgerd sits at 2,300 m. Winter snow lies for five months; the lodge opens year-round with a ski-in route from the north ridge.",
+     "coordinates": "32.4530° N, 50.1050° E"
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/f91084be-5f1a-4807-b604-9560f6123c33.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7hChQFen0qEvBk/L+lFFSM//2Q==",
+      "tone": "#dddad4",
+      "alt": "Site plan"
+     },
+     "caption": "Site plan, 1:1000 — eight volumes on the contour."
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "Design lead",
+       "names": [
+        "Kian Heydari"
+       ]
+      },
+      {
+       "role": "Project team",
+       "names": [
+        "Sara Moradi",
+        "Parisa Jalali"
+       ]
+      },
+      {
+       "role": "Structure",
+       "names": [
+        "Lund & Partners"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "tehran-terraces",
+      "kavir-observatory",
+      "hormuz-shore-walk"
+     ]
+    }
+   ],
+   "related": [
+    "tehran-terraces",
+    "kavir-observatory",
+    "hormuz-shore-walk"
+   ]
+  },
+  {
+   "id": "hormuz-shore-walk",
+   "slug": "hormuz-shore-walk",
+   "index": 4,
+   "category": {
+    "key": "landscape",
+    "name": "Landscape"
+   },
+   "typology": {
+    "key": "public-space",
+    "name": "Public space"
+   },
+   "status": "construction",
+   "year": 2025,
+   "area": 38000,
+   "title": "Hormuz Shore Walk",
+   "location": "Bandar Abbas, Iran",
+   "client": "Hormozgan Port & Maritime Authority",
+   "shortDescription": "A kilometre-long timber promenade lifted above the tide.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/30736fec-c9ad-4368-9028-3bc1d9e9ba46.jpg",
+    "width": 2400,
+    "height": 1250,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABQAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AWPViAGFrB+RqNtcO4/6DbdfQ0UV0GB//2Q==",
+    "tone": "#8197ac",
+    "alt": "The Hormuz Shore Walk, a long timber promenade raised above the water"
+   },
+   "description": [
+    "The Shore Walk raises a one-kilometre promenade above the tidal flats on slender piers, giving the city a new horizon line to walk along.",
+    "Under the walk, the mangrove nursery is restored; above it, shaded pavilions, benches and a fish market face the Strait."
+   ],
+   "facts": [
+    {
+     "label": "Length",
+     "value": "1,050 m"
+    },
+    {
+     "label": "Material",
+     "value": "Thermo-ash decking, stainless fixings"
+    },
+    {
+     "label": "Coastal engineering",
+     "value": "Lund & Partners, Copenhagen"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "body": [
+      "The walk follows the old shoreline, which the city had forgotten. Where the tide once reached, there are now benches; where fishermen landed, a market.",
+      "It is built in 24 prefabricated bays, each lifted into place in a single tide."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "wide",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/ce949aa2-e640-45b6-a1f5-0fddba66bbd4.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AItTlUBhFAD/uVG2sT7j+5t+v/PP/AOvRRW5gf//Z",
+      "tone": "#859bb0",
+      "alt": "The promenade at mid-tide"
+     },
+     "caption": "The promenade at mid-tide."
+    },
+    {
+     "type": "quote",
+     "text": "“For the first time the city faces the water with its front, not its back.”",
+     "attribution": "Municipal planner, Bandar Abbas"
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/f6c8fecc-b945-4a87-9db4-834d715474ca.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AyY7vSwAfsAP/AAI0032kZP8AoH/j3/1qKKfIh87P/9k=",
+      "tone": "#6b5d5a",
+      "alt": "The walk at dusk"
+     },
+     "caption": "At dusk the walk fills with families."
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/bcde4603-65cf-4f59-a2d3-b73af447697d.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AtyyR7WHbHpRVOQnyjz2orksb3P/Z",
+      "tone": "#a18d6d",
+      "alt": "Detail of the timber slats"
+     },
+     "caption": "Slatted deck: 18 mm gaps drain the spray."
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/633a78f9-2409-4b01-9db5-3fd72a79d8be.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7eM5QHAHHaoGk+Y/InX0ooqRn//Z",
+      "tone": "#dddad3",
+      "alt": "Promenade plan"
+     },
+     "caption": "Promenade plan, 1:1000."
+    },
+    {
+     "type": "context",
+     "heading": "The Strait",
+     "body": "Bandar Abbas faces the Strait of Hormuz; the tidal range here is 3.4 m. The piers are designed for 50-year storm surge.",
+     "coordinates": "27.1832° N, 56.2666° E"
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "Design lead",
+       "names": [
+        "Omid Tavakoli"
+       ]
+      },
+      {
+       "role": "Landscape",
+       "names": [
+        "Green Atelier",
+        "Studio Hanne Berg"
+       ]
+      },
+      {
+       "role": "Collaborators",
+       "names": [
+        "Lund & Partners"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "green-spine-masterplan",
+      "zagros-lodge",
+      "kavir-observatory"
+     ]
+    }
+   ],
+   "related": [
+    "green-spine-masterplan",
+    "zagros-lodge",
+    "kavir-observatory"
+   ]
+  },
+  {
+   "id": "green-spine-masterplan",
+   "slug": "green-spine-masterplan",
+   "index": 5,
+   "category": {
+    "key": "planning",
+    "name": "Planning"
+   },
+   "typology": {
+    "key": "urban",
+    "name": "Urban"
+   },
+   "status": "concept",
+   "year": 2026,
+   "area": 1200000,
+   "title": "Green Spine Masterplan",
+   "location": "Shiraz, Iran",
+   "client": "Shiraz Urban Renewal Company",
+   "shortDescription": "A 120-hectare district stitched together by one continuous park.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/6eff90a2-dd21-4c4a-aee5-6e5237e150f9.jpg",
+    "width": 2000,
+    "height": 2000,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AntCIoIIY1jZJFBKlQd+euaxbiONLiRVIwrkD860NPkcaPdAOwA6c9OKxSTnrWLM2f//Z",
+    "tone": "#7d8c75",
+    "alt": "Aerial masterplan of the Green Spine, courtyards arranged around a central basin"
+   },
+   "description": [
+    "The masterplan organises 120 hectares of former industrial land along a single continuous park, the Green Spine, with courtyards of mixed use set on either side.",
+    "Every home is within a five-minute walk of the spine, and the spine itself is a flood channel, a cycle route and a public garden."
+   ],
+   "facts": [
+    {
+     "label": "Area",
+     "value": "120 ha"
+    },
+    {
+     "label": "Homes",
+     "value": "9,500"
+    },
+    {
+     "label": "Green space",
+     "value": "42% of the site"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "heading": "One park, many courtyards",
+     "body": [
+      "The Green Spine is where the district drains, walks and gathers. Courtyard blocks give it edges; shops and schools give it reasons to be crossed.",
+      "The plan is phased in four stages of eight years each, and is designed to be useful at every stage."
+     ]
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/01d32184-765f-40dd-a739-02ba76e727c6.jpg",
+      "width": 1400,
+      "height": 1400,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7hQAoAAxUZiiyeBRCT5I5PSqbMdx5PWpGf/Z",
+      "tone": "#dcd9d3",
+      "alt": "Masterplan drawing"
+     },
+     "caption": "Masterplan, 1:5000."
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/fda47f64-c89e-4958-a01c-61d1ce8f8137.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ASzeM23yDCKuXz04659f1rJdot7bQcZ4oorEzZ//Z",
+      "tone": "#71836a",
+      "alt": "Aerial view of a district block"
+     },
+     "caption": "A typical courtyard block, 80 × 80 m."
+    },
+    {
+     "type": "quote",
+     "text": "“A district is not a plan; it is the sum of how people cross it.”",
+     "attribution": "Arman Rahimi, urban design lead"
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/eb08140f-da37-4870-8bf3-7971b4d1176c.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8Au/8ACQ2gjBWPnGduO/HH86qnxFFn/j2T9aKKjnl3Mz//2Q==",
+      "tone": "#92a099",
+      "alt": "A street with stepped volumes"
+     },
+     "caption": "Typical street: 18 m wide, trees on both sides."
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/4af346c7-abc1-44f9-b6df-1eba8838bead.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7ePlAen0qBpPmPyJ19KKKkZ//9k=",
+      "tone": "#dcd9d2",
+      "alt": "Street section"
+     },
+     "caption": "Street section, 1:100."
+    },
+    {
+     "type": "facts",
+     "heading": "Targets",
+     "items": [
+      {
+       "label": "Walk to the spine",
+       "value": "< 5 min"
+      },
+      {
+       "label": "Tree canopy",
+       "value": "35%"
+      },
+      {
+       "label": "Rain retained",
+       "value": "80%"
+      },
+      {
+       "label": "Rating",
+       "value": "LEED ND Gold (target)"
+      }
+     ]
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "Design lead",
+       "names": [
+        "Arman Rahimi"
+       ]
+      },
+      {
+       "role": "Project team",
+       "names": [
+        "Neda Karimi",
+        "Mina Sadeghi",
+        "Kian Heydari",
+        "Parisa Jalali"
+       ]
+      },
+      {
+       "role": "Collaborators",
+       "names": [
+        "Studio Hanne Berg",
+        "Lund & Partners"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "tehran-terraces",
+      "hormuz-shore-walk",
+      "caspian-reading-house"
+     ]
+    }
+   ],
+   "related": [
+    "tehran-terraces",
+    "hormuz-shore-walk",
+    "caspian-reading-house"
+   ]
+  },
+  {
+   "id": "naqsh-atelier-interior",
+   "slug": "naqsh-atelier-interior",
+   "index": 6,
+   "category": {
+    "key": "interiors",
+    "name": "Interiors"
+   },
+   "typology": {
+    "key": "culture",
+    "name": "Culture"
+   },
+   "status": "completed",
+   "year": 2023,
+   "area": 640,
+   "title": "Naqsh Atelier Interior",
+   "location": "Tehran, Iran",
+   "client": "NAQSH Design Foundation",
+   "shortDescription": "A gallery and workshop carved from a former printing house.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/6ab535d6-90a3-4596-914f-cd2ca9839399.jpg",
+    "width": 2400,
+    "height": 1250,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABQAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8Asx6nNwiKqr0AxnHFVZLkNIzeWOST1oornRu2f//Z",
+    "tone": "#b1937d",
+    "alt": "Three arched openings glowing in the Naqsh Atelier gallery"
+   },
+   "description": [
+    "The atelier turns a former printing house into a gallery, a workshop and a library. Arched openings cut into the old brick walls borrow light from the courtyard.",
+    "Furniture is built from the demolished interior — every bench and table has a former life as a floor joist or a print-room shelf."
+   ],
+   "facts": [
+    {
+     "label": "Reused material",
+     "value": "72% by weight"
+    },
+    {
+     "label": "Lighting",
+     "value": "Warm 2200 K LED, dimmable"
+    },
+    {
+     "label": "Programme",
+     "value": "Gallery, workshop, library"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "body": [
+      "The existing brick walls were left raw. New work is limited to three gestures: the arched openings, a timber floor and a ceiling of warm light.",
+      "In the evening the arches glow like lanterns from the street."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/165e5a1f-dbb1-42e6-80cd-2de7b8a09586.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A1jdQfZjCEGdmM0VgRu2x/mP3T3ornRuz/9k=",
+      "tone": "#b1957e",
+      "alt": "Gallery with five arched openings"
+     },
+     "caption": "The gallery: five openings, one axis."
+    },
+    {
+     "type": "quote",
+     "text": "“Nothing here was bought new. Everything is the building remembering itself.”",
+     "attribution": "Sara Moradi, interior architect"
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/2b55100e-5e91-4377-9935-9f368bfb837e.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ApNKMHA4quZEyfloornsdlz//2Q==",
+      "tone": "#895e4f",
+      "alt": "Timber screen detail"
+     },
+     "caption": "A timber screen divides workshop and gallery."
+    },
+    {
+     "type": "image",
+     "shape": "landscape",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/d37a7efe-dc0b-4694-8c1f-f9e8dd2ee01c.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A0/tkZOVkwueBs7c0gvrPA3N83f5O9FFZWNmz/9k=",
+      "tone": "#b59d8c",
+      "alt": "Vaulted arcade in the courtyard"
+     },
+     "caption": "The courtyard arcade, added in the second phase."
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/c126c5f6-1133-4166-87dc-706dd1444c83.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7hChQFen0qEvBk/L+lFFSM//2Q==",
+      "tone": "#dddbd4",
+      "alt": "Floor plan"
+     },
+     "caption": "Floor plan, 1:50."
+    },
+    {
+     "type": "context",
+     "heading": "Address",
+     "body": "Enghelab Street, near the bookshop quarter. The atelier is open Saturday to Wednesday, 09:00–17:00.",
+     "coordinates": "35.7012° N, 51.3896° E"
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "Design lead",
+       "names": [
+        "Sara Moradi"
+       ]
+      },
+      {
+       "role": "Project team",
+       "names": [
+        "Parisa Jalali",
+        "Omid Tavakoli"
+       ]
+      },
+      {
+       "role": "Lighting",
+       "names": [
+        "Lumen Studio"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "meridian-pavilion",
+      "caspian-reading-house",
+      "tehran-terraces"
+     ]
+    }
+   ],
+   "related": [
+    "meridian-pavilion",
+    "caspian-reading-house",
+    "tehran-terraces"
+   ]
+  },
+  {
+   "id": "kavir-observatory",
+   "slug": "kavir-observatory",
+   "index": 7,
+   "category": {
+    "key": "architecture",
+    "name": "Architecture"
+   },
+   "typology": {
+    "key": "science",
+    "name": "Science"
+   },
+   "status": "concept",
+   "year": 2026,
+   "area": 5600,
+   "title": "Kavir Observatory",
+   "location": "Garmsar, Iran",
+   "client": "Iranian National Observatory",
+   "shortDescription": "A research dome and a low visitor wing in the dark desert sky.",
+   "hero": {
+    "src": "https://cms.ravino.test/storage/media/2026/10/5b080d9f-d5ae-41ed-a370-8386fadb7355.jpg",
+    "width": 2400,
+    "height": 1250,
+    "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABQAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AurqzFB/o8fTFQnVRk/6LH+dFFcvtJ9zf2cex/9k=",
+    "tone": "#a6a59a",
+    "alt": "The Kavir Observatory dome above the desert dunes"
+   },
+   "description": [
+    "The Kavir Observatory sits at the edge of a protected dark-sky zone. A research dome on a stout drum rises from the dunes; a low visitor wing hides behind them.",
+    "All lighting is below the horizon line, and the building is clad in the colour of the desert so that it disappears by day."
+   ],
+   "facts": [
+    {
+     "label": "Telescope",
+     "value": "2.4 m reflector"
+    },
+    {
+     "label": "Dark sky",
+     "value": "Bortle class 2"
+    },
+    {
+     "label": "Lighting",
+     "value": "Below horizon, 1800 K"
+    }
+   ],
+   "panels": [
+    {
+     "type": "intro",
+     "body": [
+      "By day the observatory is a quiet silhouette on the dunes. By night the dome opens and the visitors’ wing glows at the horizon line, no higher.",
+      "The drum is cast on site with local sand and lime, giving it the colour and temperature of the ground."
+     ]
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/5adb5908-4585-4330-84f0-b944d93b5a26.jpg",
+      "width": 1200,
+      "height": 1600,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8Awmh04wl2uIg3ACr3Hr+lFYGTjrRT17juux//2Q==",
+      "tone": "#4c444a",
+      "alt": "The observatory at night"
+     },
+     "caption": "At night the dome opens to the sky."
+    },
+    {
+     "type": "quote",
+     "text": "“The darkest thing we built here is the lighting plan.”",
+     "attribution": "Kian Heydari, lighting lead"
+    },
+    {
+     "type": "image",
+     "shape": "portrait",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/3b234dcc-abf2-47e1-a201-9035988e589b.jpg",
+      "width": 1800,
+      "height": 2200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgACgAIAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A25DFHN5TKNu3Ofy/xFFYRlkMWTI+cf3jRWXt5F+xif/Z",
+      "tone": "#a5a69f",
+      "alt": "A neighbouring research tower"
+     },
+     "caption": "The researchers’ tower, five stacked volumes."
+    },
+    {
+     "type": "image",
+     "shape": "wide",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/9ed6737e-df88-4b89-a620-e0bbf80ff544.jpg",
+      "width": 2400,
+      "height": 1000,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABAAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A01nfbjC/lUfmOf4h/wB8j/CiisOeXc05Y9j/2Q==",
+      "tone": "#a3a7a1",
+      "alt": "Terraces among dunes"
+     },
+     "caption": "Visitor terraces cut into the dune."
+    },
+    {
+     "type": "diagram",
+     "image": {
+      "src": "https://cms.ravino.test/storage/media/2026/10/d8a99a8d-3a4c-482f-b847-5ba0e9707ded.jpg",
+      "width": 1800,
+      "height": 1200,
+      "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNjAK/9sAQwANCQoLCggNCwoLDg4NDxMgFRMSEhMnHB4XIC4pMTAuKS0sMzpKPjM2RjcsLUBXQUZMTlJTUjI+WmFaUGBKUVJP/9sAQwEODg4TERMmFRUmTzUtNU9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09P/8AAEQgABwAKAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7dMFQVwBUReDJyo/KiipGf/Z",
+      "tone": "#dbd9d2",
+      "alt": "Section through the dome"
+     },
+     "caption": "Section through the dome, 1:100."
+    },
+    {
+     "type": "facts",
+     "heading": "At a glance",
+     "items": [
+      {
+       "label": "Dome diameter",
+       "value": "14 m"
+      },
+      {
+       "label": "Altitude",
+       "value": "1,050 m"
+      },
+      {
+       "label": "Clear nights",
+       "value": "290 / year"
+      },
+      {
+       "label": "Contact",
+       "value": "research@ravino.studio"
+      }
+     ]
+    },
+    {
+     "type": "context",
+     "heading": "Desert",
+     "body": "Garmsar is 120 km south-east of Tehran. The site is reached by a 9 km gravel road from the Kavir highway.",
+     "coordinates": "35.2183° N, 52.3400° E"
+    },
+    {
+     "type": "credits",
+     "groups": [
+      {
+       "role": "Design lead",
+       "names": [
+        "Kian Heydari"
+       ]
+      },
+      {
+       "role": "Project team",
+       "names": [
+        "Neda Karimi",
+        "Arman Rahimi"
+       ]
+      },
+      {
+       "role": "Collaborators",
+       "names": [
+        "Atelier Nord",
+        "Lumen Studio"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "related",
+     "slugs": [
+      "zagros-lodge",
+      "hormuz-shore-walk",
+      "meridian-pavilion"
+     ]
+    }
+   ],
+   "related": [
+    "zagros-lodge",
+    "hormuz-shore-walk",
+    "meridian-pavilion"
+   ]
+  }
+ ],
+ "meta": {
+  "total": 8,
+  "locale": "en",
+  "revision": 125
+ }
+}

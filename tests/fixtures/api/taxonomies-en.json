@@ -1,0 +1,62 @@
+{
+ "data": {
+  "categories": [
+   {
+    "key": "architecture",
+    "name": "Architecture",
+    "count": 5
+   },
+   {
+    "key": "interiors",
+    "name": "Interiors",
+    "count": 1
+   },
+   {
+    "key": "landscape",
+    "name": "Landscape",
+    "count": 1
+   },
+   {
+    "key": "planning",
+    "name": "Planning",
+    "count": 1
+   }
+  ],
+  "typologies": [
+   {
+    "key": "culture",
+    "name": "Culture",
+    "count": 3
+   },
+   {
+    "key": "residential",
+    "name": "Residential",
+    "count": 1
+   },
+   {
+    "key": "hospitality",
+    "name": "Hospitality",
+    "count": 1
+   },
+   {
+    "key": "public-space",
+    "name": "Public space",
+    "count": 1
+   },
+   {
+    "key": "urban",
+    "name": "Urban",
+    "count": 1
+   },
+   {
+    "key": "science",
+    "name": "Science",
+    "count": 1
+   }
+  ]
+ },
+ "meta": {
+  "locale": "en",
+  "revision": 125
+ }
+}

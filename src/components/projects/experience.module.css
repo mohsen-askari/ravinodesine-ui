@@ -1,0 +1,446 @@
+/* ===== Geometry =====================================================================
+   Each row has one animated input, --p (0 closed .. 1 open). Everything else derives from it:
+
+     --H        row height           h0 -> h1
+     --heroW    hero image width     w0 -> min(H * aspect, wmax)
+     --lead     inline-start gutter  centred column -> room for the metadata column
+
+   The hero's box therefore changes continuously and object-fit: cover absorbs the change, so
+   the picture is never swapped or re-cropped abruptly. Breakpoints below only redefine the
+   inputs (w0, h1, wmax, ...), never the formulas.
+   ==================================================================================== */
+
+.experience {
+  --w0: min(46vh, 36vw); /* closed hero width */
+  --h1-fit: min(68vh, 780px); /* open row height that fits the viewport... */
+  --need: 440px; /* ...but never shorter than the tallest text panel needs (Persian runs longer) */
+  --h1: max(var(--need), var(--h1-fit));
+  --wmax: min(58vw, 1180px); /* open hero width cap */
+  --leadOpen: max(380px, 25vw); /* room for the caption + metadata column */
+  --captionW: 300px;
+  --cgap: 44px; /* caption <-> hero gap */
+  --cap: 0px; /* caption height below the hero (mobile only) */
+  --gap: clamp(36px, 5vw, 84px); /* between strip panels */
+  --tail: clamp(48px, 10vw, 200px);
+  --rowGap: 38px;
+  --wcap: 46vw; /* widest a panel image may become */
+  --stack-top: calc(var(--header-h) + 22px);
+
+  min-block-size: 100svh;
+  display: flow-root;
+}
+
+:global(html[lang='fa']) .experience {
+  --need: 530px;
+}
+
+.stack {
+  display: flex;
+  flex-direction: column;
+  padding-block: var(--stack-top) 0;
+  /* Zoom-while-scrolling is applied here as a transform; it stays compositor-only. */
+  transform-origin: 50% 0;
+}
+
+.row {
+  --p: 0;
+  --aspect: 1.5;
+  --h0: calc(var(--w0) / var(--aspect));
+  --H: calc(var(--h0) + (var(--h1) - var(--h0)) * var(--p));
+  --heroW: min(calc(var(--H) * var(--aspect)), calc(var(--w0) + (var(--wmax) - var(--w0)) * var(--p)));
+  --lead: calc((100cqw - var(--w0)) / 2 * (1 - var(--p)) + var(--leadOpen) * var(--p));
+
+  position: relative;
+  container-type: inline-size;
+  margin-block-end: var(--rowGap);
+}
+
+.scroller {
+  block-size: calc(var(--H) + var(--cap));
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  /* Reaching the strip's end must never trigger browser back/forward swipes. */
+  overscroll-behavior-x: contain;
+}
+.scroller::-webkit-scrollbar {
+  display: none;
+}
+.row[data-open='true'] .scroller {
+  cursor: grab;
+}
+.scroller[data-dragging='true'] {
+  cursor: grabbing;
+  user-select: none;
+}
+.scroller:focus-visible {
+  outline-offset: -4px;
+  box-shadow: none;
+}
+
+.track {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  gap: var(--gap);
+  inline-size: max-content;
+  min-inline-size: 100%;
+  block-size: 100%;
+  padding-inline: var(--lead) var(--tail);
+}
+
+/* ---- hero + caption ------------------------------------------------------------- */
+.heroLink {
+  position: relative;
+  display: block;
+  flex: 0 0 auto;
+  inline-size: var(--heroW);
+  -webkit-user-drag: none;
+}
+/* The picture paints over an outline drawn on the link itself, so the focus ring is an overlay
+   on the image: a paper line inside an ink line reads on both pale and dark photographs. */
+.heroLink:focus-visible {
+  outline: none;
+  box-shadow: none;
+}
+.heroLink:focus-visible .hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+  box-shadow:
+    inset 0 0 0 3px var(--paper),
+    inset 0 0 0 5px var(--ink);
+}
+.hero {
+  position: relative;
+  display: block;
+  inline-size: var(--heroW);
+  block-size: var(--H);
+  overflow: hidden;
+  background: var(--wash);
+}
+.heroImg {
+  object-fit: cover;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.caption {
+  position: absolute;
+  inset-block-start: 0;
+  inset-inline-end: calc(100% + var(--cgap));
+  inline-size: var(--captionW);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end; /* flex-end = inline-end: hugs the hero in both directions */
+  text-align: end;
+  gap: 18px;
+}
+.badge {
+  display: grid;
+  place-items: center;
+  inline-size: 50px;
+  block-size: 50px;
+  background: var(--ink);
+  color: var(--paper);
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  font-variant-numeric: tabular-nums;
+}
+.title {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.25;
+  text-wrap: balance;
+}
+.place {
+  margin-block-start: 6px;
+  font-size: 13.5px;
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--muted);
+}
+:global(html[lang='fa']) .title {
+  font-size: 19px;
+  line-height: 1.6;
+  font-weight: 600;
+}
+:global(html[lang='fa']) .place {
+  font-size: 14px;
+}
+
+/* ---- metadata column (visible when open) ---------------------------------------- */
+.meta {
+  position: absolute;
+  inset-block: 168px 0;
+  inset-inline-start: calc(var(--lead) - var(--captionW) - var(--cgap));
+  inline-size: var(--captionW);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: end;
+}
+.metaList {
+  display: grid;
+  gap: 14px;
+}
+.metaList dt {
+  font-size: 10.5px;
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.metaList dd {
+  font-size: 13.5px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  line-height: 1.35;
+}
+:global(html[lang='fa']) .metaList dt {
+  font-size: 12px;
+}
+:global(html[lang='fa']) .metaList dd {
+  font-size: 14px;
+  text-transform: none;
+  letter-spacing: 0;
+}
+.share {
+  display: grid;
+  justify-items: end;
+  gap: 6px;
+}
+.shareLabel {
+  font-size: 10.5px;
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.shareActions {
+  display: flex;
+  gap: 4px;
+}
+.shareBtn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  inline-size: 36px;
+  block-size: 36px;
+  background: var(--ink);
+  color: var(--paper);
+}
+.shareBtn:hover {
+  background: #333;
+}
+.shareStatus {
+  min-block-size: 1.2em;
+  font-size: 11.5px;
+  color: var(--muted);
+}
+
+/* ---- closed rows are plain links; the open row says so ---------------------------- */
+.row[data-open='false'] .heroLink {
+  cursor: pointer;
+}
+.row[data-open='true'] .heroLink {
+  cursor: inherit;
+}
+.row[data-open='false'] .heroImg {
+  transition: filter 0.35s var(--ease-out);
+}
+@media (hover: hover) {
+  .row[data-open='false'] .heroLink:hover .heroImg {
+    filter: brightness(0.94);
+  }
+}
+
+.empty {
+  display: grid;
+  justify-items: center;
+  gap: 14px;
+  padding: 18vh 24px;
+  text-align: center;
+  color: var(--muted);
+}
+.empty button {
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 6px;
+  padding: 10px;
+}
+
+.pageEnd {
+  padding-block-start: 4vh;
+}
+
+/* ===== Controls bar ================================================================ */
+.controls {
+  position: fixed;
+  inset-inline: 0;
+  inset-block-end: 0;
+  z-index: 20;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: clamp(12px, 3vw, 40px);
+  padding: 6px clamp(12px, 2.2vw, 32px) max(6px, env(safe-area-inset-bottom));
+  background: var(--paper);
+  animation: controls-in 0.5s var(--ease-out) both;
+}
+.controls[hidden] {
+  display: none;
+}
+.close {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-block-size: 44px;
+  padding-inline: 4px 10px;
+  font-size: 12.5px;
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+}
+:global(html[lang='fa']) .close {
+  font-size: 14px;
+}
+.kbd {
+  padding: 1px 6px;
+  border: 1px solid var(--hairline);
+  font-size: 10.5px;
+  color: var(--muted);
+}
+@media (hover: none) {
+  .kbd {
+    display: none;
+  }
+}
+.progress {
+  justify-self: center;
+  inline-size: min(100%, 520px);
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.rule {
+  position: relative;
+  flex: 1;
+  block-size: 2px;
+  background: var(--hairline);
+}
+.bar {
+  position: absolute;
+  inset: 0;
+  background: var(--ink);
+  transform: scaleX(var(--prog, 0));
+  /* Grows from the strip's start: the right edge in Persian, the left edge in English. */
+  transform-origin: var(--origin, left center);
+}
+:global(html[dir='rtl']) .bar {
+  --origin: right center;
+}
+.count {
+  min-inline-size: 5ch;
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+  text-align: end;
+}
+.stepper {
+  display: flex;
+}
+.step {
+  display: inline-grid;
+  place-items: center;
+  inline-size: 44px;
+  block-size: 44px;
+}
+.step:disabled {
+  opacity: 0.25;
+  cursor: default;
+}
+/* "Next" points along the reading direction, so its glyph mirrors in RTL. */
+.next svg {
+  transform: scaleX(var(--dir));
+}
+.prev svg {
+  transform: scaleX(calc(-1 * var(--dir)));
+}
+@keyframes controls-in {
+  from {
+    transform: translateY(100%);
+  }
+}
+
+/* ===== Breakpoints: only inputs change ============================================== */
+@media (max-width: 1023px) {
+  .experience {
+    --w0: min(62vw, 54vh);
+    --h1-fit: min(50vh, 560px);
+    --wmax: 76vw;
+    --leadOpen: 6vw;
+    --cap: 82px;
+    --gap: clamp(28px, 4vw, 56px);
+    --rowGap: 30px;
+    --wcap: 62vw;
+  }
+  .caption {
+    position: static;
+    inline-size: auto;
+    flex-direction: row;
+    align-items: center;
+    text-align: start;
+    gap: 14px;
+    margin-block-start: 14px;
+  }
+  .badge {
+    inline-size: 38px;
+    block-size: 38px;
+    flex: none;
+  }
+  .title {
+    font-size: 16px;
+  }
+  .place {
+    font-size: 12px;
+    margin-block-start: 2px;
+  }
+  .meta {
+    position: static;
+    flex: 0 0 auto;
+    inline-size: clamp(220px, 44vw, 300px);
+    text-align: start;
+    justify-content: flex-start;
+    gap: 22px;
+    padding-block-start: 0;
+  }
+  .share {
+    justify-items: start;
+  }
+}
+
+@media (max-width: 719px) {
+  .experience {
+    --w0: 90vw;
+    --h1-fit: min(46svh, 420px);
+    --wmax: 88vw;
+    --leadOpen: 5vw;
+    --cap: 82px;
+    --gap: 22px;
+    --rowGap: 26px;
+    --wcap: 82vw;
+    --tail: 8vw;
+  }
+  .meta {
+    inline-size: min(66vw, 280px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .controls {
+    animation: none;
+  }
+  .row[data-open='false'] .heroImg {
+    transition: none;
+  }
+}

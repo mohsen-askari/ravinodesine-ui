@@ -1,0 +1,18 @@
+{
+ "data": {
+  "locales": [
+   {
+    "code": "en",
+    "dir": "ltr",
+    "default": true
+   },
+   {
+    "code": "fa",
+    "dir": "rtl",
+    "default": false
+   }
+  ],
+  "revision": 125,
+  "generatedAt": "2026-10-23T19:25:50Z"
+ }
+}
