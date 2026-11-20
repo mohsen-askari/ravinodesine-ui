@@ -34,7 +34,7 @@ test.describe('locale, direction and document attributes', () => {
   test('navigation, captions and metadata mirror between locales', async ({ page }) => {
     await gotoProjects(page, 'en')
     const vw = page.viewportSize()!.width
-    const wordmarkEn = (await page.locator('header a[aria-label]').first().boundingBox())!
+    const wordmarkEn = (await page.locator('[data-menu-trigger]').boundingBox())!
     expect(wordmarkEn.x + wordmarkEn.width / 2).toBeLessThan(vw / 2) // inline-start = left
 
     const heroEn = (await heroLink(page, 'meridian-pavilion').locator('span').first().boundingBox())!
@@ -43,7 +43,7 @@ test.describe('locale, direction and document attributes', () => {
     expect(await row(page, 'meridian-pavilion').locator('h2').evaluate((el) => getComputedStyle(el).textAlign)).toMatch(/end|right/)
 
     await gotoProjects(page, 'fa')
-    const wordmarkFa = (await page.locator('header a[aria-label]').first().boundingBox())!
+    const wordmarkFa = (await page.locator('[data-menu-trigger]').boundingBox())!
     expect(wordmarkFa.x + wordmarkFa.width / 2).toBeGreaterThan(vw / 2) // inline-start = right
 
     const heroFa = (await heroLink(page, 'meridian-pavilion').locator('span').first().boundingBox())!

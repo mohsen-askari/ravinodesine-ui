@@ -11,23 +11,54 @@
   background: var(--paper);
 }
 
-.wordmark {
+.brandMenu {
   justify-self: start;
   display: inline-flex;
+  position: relative;
   align-items: center;
+  justify-content: center;
+  min-inline-size: 72px;
   min-block-size: 44px;
+  padding-inline: 0;
+  text-align: start;
+}
+.brandMenu:focus-visible {
+  border-radius: 1px;
 }
 .wordmarkName {
+  display: block;
   font-size: 19px;
   font-weight: 800;
   letter-spacing: 0.22em;
   text-transform: uppercase;
   line-height: 1;
+  transition: opacity 0.28s ease, transform 0.38s var(--ease-out);
 }
 :global(html[lang='fa']) .wordmarkName {
   font-size: 24px;
   font-weight: 800;
   letter-spacing: 0;
+}
+.brandMenuIcon {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  opacity: 0;
+  transform: scaleX(0.45);
+  transition: opacity 0.22s ease, transform 0.38s var(--ease-out);
+}
+.brandMenu:hover .wordmarkName,
+.brandMenu:focus-visible .wordmarkName,
+.brandMenu[data-open='true'] .wordmarkName {
+  opacity: 0;
+  transform: scaleX(0.6);
+}
+.brandMenu:hover .brandMenuIcon,
+.brandMenu:focus-visible .brandMenuIcon,
+.brandMenu[data-open='true'] .brandMenuIcon {
+  opacity: 1;
+  transform: scaleX(1);
 }
 
 .filters {
@@ -92,13 +123,6 @@
 }
 .langLink:hover {
   color: var(--ink);
-}
-
-.menuButton {
-  display: inline-grid;
-  place-items: center;
-  inline-size: 44px;
-  block-size: 44px;
 }
 
 /* ---- menu ---- */
@@ -204,8 +228,11 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
+  .wordmarkName,
+  .brandMenuIcon,
   .backdrop,
   .panel {
     animation: none;
+    transition-duration: 0.01ms;
   }
 }

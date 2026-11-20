@@ -4,6 +4,7 @@ import '@fontsource-variable/hanken-grotesk'
 import '@fontsource-variable/vazirmatn'
 import '../globals.css'
 import { Header } from '@/components/Header'
+import { SplashScreen } from '@/components/SplashScreen'
 import { UiProvider } from '@/components/ui-state'
 import { I18nProvider } from '@/i18n/context'
 import { dirOf, isLocale, locales } from '@/i18n/config'
@@ -52,6 +53,7 @@ export default async function LocaleLayout({
       <body>
         <I18nProvider locale={locale} dir={dir} dict={dict}>
           <UiProvider>
+            <SplashScreen />
             <a className="skip-link" href="#content">
               {dict.nav.skipToContent}
             </a>

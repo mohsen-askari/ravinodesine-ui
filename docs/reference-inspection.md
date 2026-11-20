@@ -103,6 +103,6 @@ pointer is over an open strip and only when the strip can move in that direction
 | Scroll-velocity zoom-out in the overview | reproduced in spirit; range/rest-scale are my own |
 | Row-height curve `cubic-bezier(.45,0,.55,1)` / 0.78 s | **not** used; mine is GSAP `power3.inOut` ≈ 1.0 s, tuned by eye |
 | Mobile: stacked images, caption below, native swipe | reproduced |
-| Black loading splash | not reproduced (deliberately: the brief discourages loading screens) |
+| Black loading splash, logo travel, upward cover reveal | reproduced for the first visit in a tab; mirrored for Persian |
 | Exit control, Esc, wheel→horizontal, drag, reliable history | added (absent/unreliable in the reference) |
 | RTL / Persian | no reference exists; designed and tested independently |

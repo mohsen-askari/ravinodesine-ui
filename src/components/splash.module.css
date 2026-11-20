@@ -1,0 +1,42 @@
+.root {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  pointer-events: none;
+}
+
+.cover {
+  position: absolute;
+  inset: 0;
+  background: #000;
+  will-change: transform;
+}
+
+.mark {
+  position: fixed;
+  left: 50vw;
+  top: 50vh;
+  z-index: 1;
+  color: #fff;
+  font-size: 19px;
+  font-weight: 800;
+  letter-spacing: 0.22em;
+  line-height: 1;
+  text-transform: uppercase;
+  white-space: nowrap;
+  transform: translate(-50%, -50%) scale(1.45);
+  transform-origin: center;
+  will-change: left, top, transform, opacity;
+}
+
+:global(html[lang='fa']) .mark {
+  font-size: 24px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mark {
+    transform: translate(-50%, -50%);
+  }
+}
