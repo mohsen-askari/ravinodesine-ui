@@ -30,7 +30,9 @@ export function collectErrors(page: Page): string[] {
 export async function gotoProjects(page: Page, locale: 'en' | 'fa', slug?: string) {
   // Most feature tests are unrelated to the first-visit choreography. Skip it so
   // the cover cannot intentionally delay scrolling/input; its own spec tests it.
-  await page.addInitScript(() => sessionStorage.setItem('ravino:splash-seen', '1'))
+  await page.addInitScript(() => {
+    ;(window as Window & { __RAVINO_SKIP_SPLASH__?: boolean }).__RAVINO_SKIP_SPLASH__ = true
+  })
   await page.goto(`/${locale}/projects${slug ? `/${slug}` : ''}`, { waitUntil: 'networkidle' })
   await expect(main(page)).toHaveAttribute('data-phase', slug ? 'active' : 'overview')
 }
